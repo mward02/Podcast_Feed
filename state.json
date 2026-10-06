@@ -1,0 +1,60 @@
+{
+ "used": {
+  "AI Daily Brief": [
+   "f16934a3-d0f5-43d1-aee9-f5ebda58fe43"
+  ],
+  "Real Kyper & Bourne": [
+   "cf6dab31-ae03-47f8-96fe-b78b203327f0"
+  ],
+  "MrBallen": [
+   "de321f84-1b99-460b-bc17-094a336de6f9"
+  ]
+ },
+ "items": [
+  {
+   "show": "AI Daily Brief",
+   "guid": "f16934a3-d0f5-43d1-aee9-f5ebda58fe43",
+   "title": "Why Companies Want AI They Can Own",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/126898286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433426135-44100-2-ac2ef5eb3e061.mp3",
+   "length": "25757987",
+   "type": "audio/mpeg",
+   "published": "2026-10-05T20:33:05+00:00",
+   "secs": 1609,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-Companies-Want-AI-They-Can-Own-e3pv4le",
+   "day": "2026-10-06",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-06T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "cf6dab31-ae03-47f8-96fe-b78b203327f0",
+   "title": "Leafs Hour: Matthew Knies for Who?!",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9521cc6f-88c6-49f7-be65-6cce9f6ee118/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=9521cc6f-88c6-49f7-be65-6cce9f6ee118&feed=4jXBOWgY",
+   "length": "47891144",
+   "type": "audio/mpeg",
+   "published": "2026-09-28T20:59:16+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-06",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-06T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "de321f84-1b99-460b-bc17-094a336de6f9",
+   "title": "On Patrol (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a52861d0-193e-4703-8223-5540771769a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a52861d0-193e-4703-8223-5540771769a5&feed=dloY8UYJ",
+   "length": "28262119",
+   "type": "audio/mpeg",
+   "published": "2026-09-28T07:00:00+00:00",
+   "secs": 1766,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-06",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-06T04:58:00-04:00"
+  }
+ ]
+}

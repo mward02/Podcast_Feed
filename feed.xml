@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Matt&#x27;s Drive</title>
+<link>https://mward02.github.io/Podcast_Feed/feed.xml</link>
+<language>en-ca</language>
+<description>Daily drive playlist, rebuilt every morning.</description>
+<itunes:author>Matt</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<lastBuildDate>Tue, 06 Oct 2026 11:38:21 -0400</lastBuildDate>
+<item>
+<title>Tue Oct 6 · 1/3 · AI Daily Brief: Why Companies Want AI They Can Own</title>
+<guid isPermaLink="false">drive-2026-10-06-f16934a3-d0f5-43d1-aee9-f5ebda58fe43</guid>
+<pubDate>Tue, 06 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/126898286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433426135-44100-2-ac2ef5eb3e061.mp3" length="25757987" type="audio/mpeg"/>
+<itunes:duration>1609</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Why-Companies-Want-AI-They-Can-Own-e3pv4le</link>
+</item>
+<item>
+<title>Tue Oct 6 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Matthew Knies for Who?!</title>
+<guid isPermaLink="false">drive-2026-10-06-cf6dab31-ae03-47f8-96fe-b78b203327f0</guid>
+<pubDate>Tue, 06 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9521cc6f-88c6-49f7-be65-6cce9f6ee118/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=9521cc6f-88c6-49f7-be65-6cce9f6ee118&amp;feed=4jXBOWgY" length="47891144" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Tue Oct 6 · 3/3 · MrBallen: On Patrol (PODCAST EXCLUSIVE EPISODE)</title>
+<guid isPermaLink="false">drive-2026-10-06-de321f84-1b99-460b-bc17-094a336de6f9</guid>
+<pubDate>Tue, 06 Oct 2026 04:58:00 -0400</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a52861d0-193e-4703-8223-5540771769a5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=a52861d0-193e-4703-8223-5540771769a5&amp;feed=dloY8UYJ" length="28262119" type="audio/mpeg"/>
+<itunes:duration>1766</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
+</channel>
+</rss>
