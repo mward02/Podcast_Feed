@@ -1,0 +1,31 @@
+name: Build drive feed
+
+on:
+  schedule:
+    - cron: "30 10 * * *"   # 10:30 UTC = 6:30 am Toronto (EDT) / 5:30 am (EST)
+  workflow_dispatch:         # lets you press "Run workflow" by hand
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser
+
+      - run: python build_feed.py
+
+      - name: Commit feed and state
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed.xml state.json
+          git commit -m "Daily feed $(date -u +%F)" || echo "Nothing to commit"
+          git push

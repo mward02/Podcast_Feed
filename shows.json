@@ -1,0 +1,27 @@
+{
+  "feed_title": "Matt's Drive",
+  "feed_url": "https://mward02.github.io/Podcast_Feed/feed.xml",
+  "drive_minutes": 60,
+  "default_episode_minutes": 30,
+  "keep_days": 7,
+  "shows": [
+    {
+      "name": "AI Daily Brief",
+      "feed": "https://anchor.fm/s/f7cac464/podcast/rss",
+      "mode": "daily",
+      "lookback_days": 7
+    },
+    {
+      "name": "Real Kyper & Bourne",
+      "feed": "https://feeds.simplecast.com/4jXBOWgY",
+      "mode": "queue",
+      "lookback_days": 10
+    },
+    {
+      "name": "MrBallen",
+      "feed": "https://feeds.simplecast.com/dloY8UYJ",
+      "mode": "queue",
+      "lookback_days": 10
+    }
+  ]
+}
