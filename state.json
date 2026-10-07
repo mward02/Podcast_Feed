@@ -1,13 +1,16 @@
 {
  "used": {
   "AI Daily Brief": [
-   "f16934a3-d0f5-43d1-aee9-f5ebda58fe43"
+   "f16934a3-d0f5-43d1-aee9-f5ebda58fe43",
+   "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e"
   ],
   "Real Kyper & Bourne": [
-   "cf6dab31-ae03-47f8-96fe-b78b203327f0"
+   "cf6dab31-ae03-47f8-96fe-b78b203327f0",
+   "07f31c34-3753-4c23-bcc5-5a9206787def"
   ],
   "MrBallen": [
-   "de321f84-1b99-460b-bc17-094a336de6f9"
+   "de321f84-1b99-460b-bc17-094a336de6f9",
+   "f280f1b8-c92d-4a7e-8487-df0b59a2fe33"
   ]
  },
  "items": [
@@ -55,6 +58,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-06T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e",
+   "title": "Point-Counterpoint: Consumers Will Never Pay for AI",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/126965801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433513722-44100-2-69f494a7c8499.mp3",
+   "length": "26348981",
+   "type": "audio/mpeg",
+   "published": "2026-10-06T20:19:59+00:00",
+   "secs": 1646,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Point-Counterpoint-Consumers-Will-Never-Pay-for-AI-e3q16j9",
+   "day": "2026-10-07",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-07T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "07f31c34-3753-4c23-bcc5-5a9206787def",
+   "title": "Elliotte Friedman Breaks Down Marchenko Blockbuster + Season Predictions!",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/7548fcc5-2375-468f-b9e5-5e97c5066962/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=7548fcc5-2375-468f-b9e5-5e97c5066962&feed=4jXBOWgY",
+   "length": "47938791",
+   "type": "audio/mpeg",
+   "published": "2026-09-28T21:59:39+00:00",
+   "secs": 2996,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-07",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-07T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
+   "title": "Brutal Mercy (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/0bff8699-f940-47eb-bb98-938f1acdf62a/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=0bff8699-f940-47eb-bb98-938f1acdf62a&feed=dloY8UYJ",
+   "length": "26359930",
+   "type": "audio/mpeg",
+   "published": "2026-09-30T07:00:00+00:00",
+   "secs": 1647,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-07",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-07T04:58:00-04:00"
   }
  ]
 }
