@@ -2,15 +2,18 @@
  "used": {
   "AI Daily Brief": [
    "f16934a3-d0f5-43d1-aee9-f5ebda58fe43",
-   "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e"
+   "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e",
+   "c41016e9-103e-4d92-aae0-26851471d374"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
-   "07f31c34-3753-4c23-bcc5-5a9206787def"
+   "07f31c34-3753-4c23-bcc5-5a9206787def",
+   "4e8ce49d-4c34-46a1-8c8a-12811d25f99e"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
-   "f280f1b8-c92d-4a7e-8487-df0b59a2fe33"
+   "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
+   "76dd00dd-3af8-44cb-98cc-cd8b4327388e"
   ]
  },
  "items": [
@@ -103,6 +106,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-07T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "c41016e9-103e-4d92-aae0-26851471d374",
+   "title": "The Best Way to Test New AI Models",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127047582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433614575-44100-2-a58c6f4f955.mp3",
+   "length": "47840025",
+   "type": "audio/mpeg",
+   "published": "2026-10-07T19:02:35+00:00",
+   "secs": 2989,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Best-Way-to-Test-New-AI-Models-e3q3meu",
+   "day": "2026-10-08",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-08T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "4e8ce49d-4c34-46a1-8c8a-12811d25f99e",
+   "title": "Leafs Hour: Marchenko Arrives, Don Waddell Explains Why",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/58239c4a-e8b4-4f85-abf0-52c4ba55172b/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=58239c4a-e8b4-4f85-abf0-52c4ba55172b&feed=4jXBOWgY",
+   "length": "47942971",
+   "type": "audio/mpeg",
+   "published": "2026-09-29T21:00:09+00:00",
+   "secs": 2996,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-08",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-08T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "76dd00dd-3af8-44cb-98cc-cd8b4327388e",
+   "title": "Reality Glitch Vol. II",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4fca8765-b089-4e44-800c-0c0c2c19e485/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=4fca8765-b089-4e44-800c-0c0c2c19e485&feed=dloY8UYJ",
+   "length": "26177712",
+   "type": "audio/mpeg",
+   "published": "2026-10-01T07:00:00+00:00",
+   "secs": 1636,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-08",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-08T04:58:00-04:00"
   }
  ]
 }

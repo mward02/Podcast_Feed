@@ -7,7 +7,31 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Wed, 07 Oct 2026 12:16:21 -0400</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 12:17:42 -0400</lastBuildDate>
+<item>
+<title>Thu Oct 8 · 1/3 · AI Daily Brief: The Best Way to Test New AI Models</title>
+<guid isPermaLink="false">drive-2026-10-08-c41016e9-103e-4d92-aae0-26851471d374</guid>
+<pubDate>Thu, 08 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/127047582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-7%2F433614575-44100-2-a58c6f4f955.mp3" length="47840025" type="audio/mpeg"/>
+<itunes:duration>2989</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/The-Best-Way-to-Test-New-AI-Models-e3q3meu</link>
+</item>
+<item>
+<title>Thu Oct 8 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Marchenko Arrives, Don Waddell Explains Why</title>
+<guid isPermaLink="false">drive-2026-10-08-4e8ce49d-4c34-46a1-8c8a-12811d25f99e</guid>
+<pubDate>Thu, 08 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/58239c4a-e8b4-4f85-abf0-52c4ba55172b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=58239c4a-e8b4-4f85-abf0-52c4ba55172b&amp;feed=4jXBOWgY" length="47942971" type="audio/mpeg"/>
+<itunes:duration>2996</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Thu Oct 8 · 3/3 · MrBallen: Reality Glitch Vol. II</title>
+<guid isPermaLink="false">drive-2026-10-08-76dd00dd-3af8-44cb-98cc-cd8b4327388e</guid>
+<pubDate>Thu, 08 Oct 2026 04:58:00 -0400</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4fca8765-b089-4e44-800c-0c0c2c19e485/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=4fca8765-b089-4e44-800c-0c0c2c19e485&amp;feed=dloY8UYJ" length="26177712" type="audio/mpeg"/>
+<itunes:duration>1636</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
 <item>
 <title>Wed Oct 7 · 1/3 · AI Daily Brief: Point-Counterpoint: Consumers Will Never Pay for AI</title>
 <guid isPermaLink="false">drive-2026-10-07-ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e</guid>
