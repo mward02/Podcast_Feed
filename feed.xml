@@ -7,7 +7,31 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Fri, 09 Oct 2026 12:01:31 -0400</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 11:10:09 -0400</lastBuildDate>
+<item>
+<title>Sat Oct 10 · 1/3 · AI Daily Brief: When AI Solves Your Life’s Work</title>
+<guid isPermaLink="false">drive-2026-10-10-9a287cfa-9e3f-422e-b951-6009391a939d</guid>
+<pubDate>Sat, 10 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/127209882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F433817882-44100-2-390ed54c878cd.mp3" length="24279248" type="audio/mpeg"/>
+<itunes:duration>1517</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/When-AI-Solves-Your-Lifes-Work-e3q8kuq</link>
+</item>
+<item>
+<title>Sat Oct 10 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Are Changes Needed Already?</title>
+<guid isPermaLink="false">drive-2026-10-10-70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e</guid>
+<pubDate>Sat, 10 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/48233e88-a92a-4877-aa3d-429298036e18/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=48233e88-a92a-4877-aa3d-429298036e18&amp;feed=4jXBOWgY" length="47895323" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Sat Oct 10 · 3/3 · MrBallen: The Stage Manager (PODCAST EXCLUSIVE EPISODE)</title>
+<guid isPermaLink="false">drive-2026-10-10-84bf960f-1906-456a-b5c9-968533ecaf3c</guid>
+<pubDate>Sat, 10 Oct 2026 04:58:00 -0400</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4bab26ca-2dc1-4007-b200-382d9684bbd1/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=4bab26ca-2dc1-4007-b200-382d9684bbd1&amp;feed=dloY8UYJ" length="33158092" type="audio/mpeg"/>
+<itunes:duration>2072</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
 <item>
 <title>Fri Oct 9 · 1/3 · AI Daily Brief: The Most Important Trends in New AI Products</title>
 <guid isPermaLink="false">drive-2026-10-09-b5005405-23aa-4f48-963b-4d92960d1634</guid>

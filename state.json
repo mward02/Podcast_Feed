@@ -4,19 +4,22 @@
    "f16934a3-d0f5-43d1-aee9-f5ebda58fe43",
    "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e",
    "c41016e9-103e-4d92-aae0-26851471d374",
-   "b5005405-23aa-4f48-963b-4d92960d1634"
+   "b5005405-23aa-4f48-963b-4d92960d1634",
+   "9a287cfa-9e3f-422e-b951-6009391a939d"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
    "07f31c34-3753-4c23-bcc5-5a9206787def",
    "4e8ce49d-4c34-46a1-8c8a-12811d25f99e",
-   "ecbf9ab0-1e24-4e97-ba50-5cf0ac546bbc"
+   "ecbf9ab0-1e24-4e97-ba50-5cf0ac546bbc",
+   "70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
    "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
    "76dd00dd-3af8-44cb-98cc-cd8b4327388e",
-   "1e3ad6f4-175f-4d48-81d6-5e5275175bb9"
+   "1e3ad6f4-175f-4d48-81d6-5e5275175bb9",
+   "84bf960f-1906-456a-b5c9-968533ecaf3c"
   ]
  },
  "items": [
@@ -199,6 +202,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-09T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "9a287cfa-9e3f-422e-b951-6009391a939d",
+   "title": "When AI Solves Your Life\u2019s Work",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127209882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-9%2F433817882-44100-2-390ed54c878cd.mp3",
+   "length": "24279248",
+   "type": "audio/mpeg",
+   "published": "2026-10-09T21:01:23+00:00",
+   "secs": 1517,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/When-AI-Solves-Your-Lifes-Work-e3q8kuq",
+   "day": "2026-10-10",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-10T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e",
+   "title": "Leafs Hour: Are Changes Needed Already?",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/48233e88-a92a-4877-aa3d-429298036e18/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=48233e88-a92a-4877-aa3d-429298036e18&feed=4jXBOWgY",
+   "length": "47895323",
+   "type": "audio/mpeg",
+   "published": "2026-09-30T21:00:53+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-10",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-10T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "84bf960f-1906-456a-b5c9-968533ecaf3c",
+   "title": "The Stage Manager (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4bab26ca-2dc1-4007-b200-382d9684bbd1/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=4bab26ca-2dc1-4007-b200-382d9684bbd1&feed=dloY8UYJ",
+   "length": "33158092",
+   "type": "audio/mpeg",
+   "published": "2026-10-05T07:00:00+00:00",
+   "secs": 2072,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-10",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-10T04:58:00-04:00"
   }
  ]
 }
