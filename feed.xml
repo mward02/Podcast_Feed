@@ -7,7 +7,31 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sat, 10 Oct 2026 11:10:09 -0400</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 11:30:43 -0400</lastBuildDate>
+<item>
+<title>Sun Oct 11 · 1/3 · AI Daily Brief: The 5 Debates Shaping AI</title>
+<guid isPermaLink="false">drive-2026-10-11-e0777b20-ac9a-4f48-ae52-dcb41ce88d60</guid>
+<pubDate>Sun, 11 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/127285837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F433914144-44100-2-0974aebfc49d6.mp3" length="24418428" type="audio/mpeg"/>
+<itunes:duration>1526</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/The-5-Debates-Shaping-AI-e3qav4d</link>
+</item>
+<item>
+<title>Sun Oct 11 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Early-Season Lineup Questions</title>
+<guid isPermaLink="false">drive-2026-10-11-61ed1792-08a6-464b-b6e2-23f355dc768c</guid>
+<pubDate>Sun, 11 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e0c028c3-423f-46f8-a0f8-463ff10977c4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=e0c028c3-423f-46f8-a0f8-463ff10977c4&amp;feed=4jXBOWgY" length="47807970" type="audio/mpeg"/>
+<itunes:duration>2987</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Sun Oct 11 · 3/3 · MrBallen: The Nightmare Cure (PODCAST EXCLUSIVE EPISODE)</title>
+<guid isPermaLink="false">drive-2026-10-11-464fd06d-b486-45ac-b3e8-56c0305b3c72</guid>
+<pubDate>Sun, 11 Oct 2026 04:58:00 -0400</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/22fc785b-e86a-4cb0-b701-dca4868c09bd/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=22fc785b-e86a-4cb0-b701-dca4868c09bd&amp;feed=dloY8UYJ" length="21830519" type="audio/mpeg"/>
+<itunes:duration>1364</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
 <item>
 <title>Sat Oct 10 · 1/3 · AI Daily Brief: When AI Solves Your Life’s Work</title>
 <guid isPermaLink="false">drive-2026-10-10-9a287cfa-9e3f-422e-b951-6009391a939d</guid>

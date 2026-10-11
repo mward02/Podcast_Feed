@@ -5,21 +5,24 @@
    "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e",
    "c41016e9-103e-4d92-aae0-26851471d374",
    "b5005405-23aa-4f48-963b-4d92960d1634",
-   "9a287cfa-9e3f-422e-b951-6009391a939d"
+   "9a287cfa-9e3f-422e-b951-6009391a939d",
+   "e0777b20-ac9a-4f48-ae52-dcb41ce88d60"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
    "07f31c34-3753-4c23-bcc5-5a9206787def",
    "4e8ce49d-4c34-46a1-8c8a-12811d25f99e",
    "ecbf9ab0-1e24-4e97-ba50-5cf0ac546bbc",
-   "70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e"
+   "70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e",
+   "61ed1792-08a6-464b-b6e2-23f355dc768c"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
    "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
    "76dd00dd-3af8-44cb-98cc-cd8b4327388e",
    "1e3ad6f4-175f-4d48-81d6-5e5275175bb9",
-   "84bf960f-1906-456a-b5c9-968533ecaf3c"
+   "84bf960f-1906-456a-b5c9-968533ecaf3c",
+   "464fd06d-b486-45ac-b3e8-56c0305b3c72"
   ]
  },
  "items": [
@@ -247,6 +250,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-10T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "e0777b20-ac9a-4f48-ae52-dcb41ce88d60",
+   "title": "The 5 Debates Shaping AI",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127285837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F433914144-44100-2-0974aebfc49d6.mp3",
+   "length": "24418428",
+   "type": "audio/mpeg",
+   "published": "2026-10-11T10:58:13+00:00",
+   "secs": 1526,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-5-Debates-Shaping-AI-e3qav4d",
+   "day": "2026-10-11",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-11T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "61ed1792-08a6-464b-b6e2-23f355dc768c",
+   "title": "Leafs Hour: Early-Season Lineup Questions",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e0c028c3-423f-46f8-a0f8-463ff10977c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e0c028c3-423f-46f8-a0f8-463ff10977c4&feed=4jXBOWgY",
+   "length": "47807970",
+   "type": "audio/mpeg",
+   "published": "2026-10-01T21:02:57+00:00",
+   "secs": 2987,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-11",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-11T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "464fd06d-b486-45ac-b3e8-56c0305b3c72",
+   "title": "The Nightmare Cure (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/22fc785b-e86a-4cb0-b701-dca4868c09bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=22fc785b-e86a-4cb0-b701-dca4868c09bd&feed=dloY8UYJ",
+   "length": "21830519",
+   "type": "audio/mpeg",
+   "published": "2026-10-07T07:00:00+00:00",
+   "secs": 1364,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-11",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-11T04:58:00-04:00"
   }
  ]
 }
