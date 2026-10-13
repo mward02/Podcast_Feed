@@ -16,7 +16,8 @@
    "ecbf9ab0-1e24-4e97-ba50-5cf0ac546bbc",
    "70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e",
    "61ed1792-08a6-464b-b6e2-23f355dc768c",
-   "3aa0fcb9-556d-45e8-97c7-54dc24faa935"
+   "3aa0fcb9-556d-45e8-97c7-54dc24faa935",
+   "8670d6b2-cbc5-4925-903e-8a6360890ce6"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -25,7 +26,8 @@
    "1e3ad6f4-175f-4d48-81d6-5e5275175bb9",
    "84bf960f-1906-456a-b5c9-968533ecaf3c",
    "464fd06d-b486-45ac-b3e8-56c0305b3c72",
-   "f5e2b03b-4af9-453b-b58c-12a9968bb5bf"
+   "f5e2b03b-4af9-453b-b58c-12a9968bb5bf",
+   "1c84bbca-d1ba-4c56-94cb-be508f68691f"
   ]
  },
  "items": [
@@ -343,6 +345,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-12T04:58:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "8670d6b2-cbc5-4925-903e-8a6360890ce6",
+   "title": "Leafs Hour: Rethinking Tavares' Second Line",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/0dd8c58a-eae3-4e37-96dd-63ea8c5d634e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=0dd8c58a-eae3-4e37-96dd-63ea8c5d634e&feed=4jXBOWgY",
+   "length": "47942551",
+   "type": "audio/mpeg",
+   "published": "2026-10-05T20:59:36+00:00",
+   "secs": 2996,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-13",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-13T05:00:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "1c84bbca-d1ba-4c56-94cb-be508f68691f",
+   "title": "Fan Favorite - \"One Foot Out the Door\"",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/46674184-0d03-47c2-b1a1-554ce6fd9031/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=46674184-0d03-47c2-b1a1-554ce6fd9031&feed=dloY8UYJ",
+   "length": "39593286",
+   "type": "audio/mpeg",
+   "published": "2026-10-09T07:00:00+00:00",
+   "secs": 2474,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-13",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-13T04:59:00-04:00"
   }
  ]
 }
