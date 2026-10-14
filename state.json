@@ -7,7 +7,8 @@
    "b5005405-23aa-4f48-963b-4d92960d1634",
    "9a287cfa-9e3f-422e-b951-6009391a939d",
    "e0777b20-ac9a-4f48-ae52-dcb41ce88d60",
-   "c6d49af5-9d42-4cb3-802d-02d561d3a4e1"
+   "c6d49af5-9d42-4cb3-802d-02d561d3a4e1",
+   "f4076144-72fd-4a61-bab3-05b38603e36d"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -17,7 +18,8 @@
    "70a5ca7d-57cf-4ab4-be4d-685b1e8cc16e",
    "61ed1792-08a6-464b-b6e2-23f355dc768c",
    "3aa0fcb9-556d-45e8-97c7-54dc24faa935",
-   "8670d6b2-cbc5-4925-903e-8a6360890ce6"
+   "8670d6b2-cbc5-4925-903e-8a6360890ce6",
+   "0163545a-e941-47a1-9f4e-e5531e23e0bc"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -27,55 +29,11 @@
    "84bf960f-1906-456a-b5c9-968533ecaf3c",
    "464fd06d-b486-45ac-b3e8-56c0305b3c72",
    "f5e2b03b-4af9-453b-b58c-12a9968bb5bf",
-   "1c84bbca-d1ba-4c56-94cb-be508f68691f"
+   "1c84bbca-d1ba-4c56-94cb-be508f68691f",
+   "abc155bf-c4e7-4324-b770-4c105d84cbc3"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "f16934a3-d0f5-43d1-aee9-f5ebda58fe43",
-   "title": "Why Companies Want AI They Can Own",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/126898286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-5%2F433426135-44100-2-ac2ef5eb3e061.mp3",
-   "length": "25757987",
-   "type": "audio/mpeg",
-   "published": "2026-10-05T20:33:05+00:00",
-   "secs": 1609,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-Companies-Want-AI-They-Can-Own-e3pv4le",
-   "day": "2026-10-06",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-06T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "cf6dab31-ae03-47f8-96fe-b78b203327f0",
-   "title": "Leafs Hour: Matthew Knies for Who?!",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9521cc6f-88c6-49f7-be65-6cce9f6ee118/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=9521cc6f-88c6-49f7-be65-6cce9f6ee118&feed=4jXBOWgY",
-   "length": "47891144",
-   "type": "audio/mpeg",
-   "published": "2026-09-28T20:59:16+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-06",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-06T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "de321f84-1b99-460b-bc17-094a336de6f9",
-   "title": "On Patrol (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a52861d0-193e-4703-8223-5540771769a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a52861d0-193e-4703-8223-5540771769a5&feed=dloY8UYJ",
-   "length": "28262119",
-   "type": "audio/mpeg",
-   "published": "2026-09-28T07:00:00+00:00",
-   "secs": 1766,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-06",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-06T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e",
@@ -375,6 +333,51 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-13T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "f4076144-72fd-4a61-bab3-05b38603e36d",
+   "title": "Why Muse Wonder Is Dividing AI Users",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127425638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434102226-44100-2-51e54799abf21.mp3",
+   "length": "26682513",
+   "type": "audio/mpeg",
+   "published": "2026-10-13T20:37:58+00:00",
+   "secs": 1667,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-Muse-Wonder-Is-Dividing-AI-Users-e3qf7l6",
+   "day": "2026-10-14",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-14T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "0163545a-e941-47a1-9f4e-e5531e23e0bc",
+   "title": "Coaching the Start of the Season with Bruce Cassidy",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/8afcdd28-0045-4420-b420-2f644e76eaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=8afcdd28-0045-4420-b420-2f644e76eaca&feed=4jXBOWgY",
+   "length": "47905772",
+   "type": "audio/mpeg",
+   "published": "2026-10-05T22:00:37+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-14",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-14T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "abc155bf-c4e7-4324-b770-4c105d84cbc3",
+   "title": "The Hidden Connection (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/43858c66-684c-413b-bb63-dc5476078145/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=43858c66-684c-413b-bb63-dc5476078145&feed=dloY8UYJ",
+   "length": "28575170",
+   "type": "audio/mpeg",
+   "published": "2026-10-12T07:00:00+00:00",
+   "secs": 1785,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-14",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-14T04:58:00-04:00"
   }
  ]
 }
