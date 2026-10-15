@@ -8,7 +8,8 @@
    "9a287cfa-9e3f-422e-b951-6009391a939d",
    "e0777b20-ac9a-4f48-ae52-dcb41ce88d60",
    "c6d49af5-9d42-4cb3-802d-02d561d3a4e1",
-   "f4076144-72fd-4a61-bab3-05b38603e36d"
+   "f4076144-72fd-4a61-bab3-05b38603e36d",
+   "1f38e3f9-81da-42d5-9be2-bc9be171efdb"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -19,7 +20,8 @@
    "61ed1792-08a6-464b-b6e2-23f355dc768c",
    "3aa0fcb9-556d-45e8-97c7-54dc24faa935",
    "8670d6b2-cbc5-4925-903e-8a6360890ce6",
-   "0163545a-e941-47a1-9f4e-e5531e23e0bc"
+   "0163545a-e941-47a1-9f4e-e5531e23e0bc",
+   "39018e25-a3a3-422b-8086-b3c5d98a52fb"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -30,55 +32,11 @@
    "464fd06d-b486-45ac-b3e8-56c0305b3c72",
    "f5e2b03b-4af9-453b-b58c-12a9968bb5bf",
    "1c84bbca-d1ba-4c56-94cb-be508f68691f",
-   "abc155bf-c4e7-4324-b770-4c105d84cbc3"
+   "abc155bf-c4e7-4324-b770-4c105d84cbc3",
+   "3f3b3491-5fa4-40ae-9325-ceae728f16f0"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e",
-   "title": "Point-Counterpoint: Consumers Will Never Pay for AI",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/126965801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433513722-44100-2-69f494a7c8499.mp3",
-   "length": "26348981",
-   "type": "audio/mpeg",
-   "published": "2026-10-06T20:19:59+00:00",
-   "secs": 1646,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Point-Counterpoint-Consumers-Will-Never-Pay-for-AI-e3q16j9",
-   "day": "2026-10-07",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-07T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "07f31c34-3753-4c23-bcc5-5a9206787def",
-   "title": "Elliotte Friedman Breaks Down Marchenko Blockbuster + Season Predictions!",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/7548fcc5-2375-468f-b9e5-5e97c5066962/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=7548fcc5-2375-468f-b9e5-5e97c5066962&feed=4jXBOWgY",
-   "length": "47938791",
-   "type": "audio/mpeg",
-   "published": "2026-09-28T21:59:39+00:00",
-   "secs": 2996,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-07",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-07T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "f280f1b8-c92d-4a7e-8487-df0b59a2fe33",
-   "title": "Brutal Mercy (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/0bff8699-f940-47eb-bb98-938f1acdf62a/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=0bff8699-f940-47eb-bb98-938f1acdf62a&feed=dloY8UYJ",
-   "length": "26359930",
-   "type": "audio/mpeg",
-   "published": "2026-09-30T07:00:00+00:00",
-   "secs": 1647,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-07",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-07T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "c41016e9-103e-4d92-aae0-26851471d374",
@@ -378,6 +336,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-14T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "1f38e3f9-81da-42d5-9be2-bc9be171efdb",
+   "title": "What Gemini 4 Argon Is Actually Good For",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127481839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434179246-44100-2-5ef2e39d02e93.mp3",
+   "length": "29338226",
+   "type": "audio/mpeg",
+   "published": "2026-10-14T19:56:06+00:00",
+   "secs": 1833,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/What-Gemini-4-Argon-Is-Actually-Good-For-e3qguhf",
+   "day": "2026-10-15",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-15T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "39018e25-a3a3-422b-8086-b3c5d98a52fb",
+   "title": "Leafs Hour: Eyes on McKenna + Early Goalie Controversy?",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9609ef2b-90c8-4b5b-9e94-281b3f3f9111/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=9609ef2b-90c8-4b5b-9e94-281b3f3f9111&feed=4jXBOWgY",
+   "length": "47903265",
+   "type": "audio/mpeg",
+   "published": "2026-10-06T21:01:57+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-15",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-15T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "3f3b3491-5fa4-40ae-9325-ceae728f16f0",
+   "title": "0 Days Since Last Accident (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/5a23bcb5-4b1f-4f31-ab45-f39d44255ed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=5a23bcb5-4b1f-4f31-ab45-f39d44255ed4&feed=dloY8UYJ",
+   "length": "26774558",
+   "type": "audio/mpeg",
+   "published": "2026-10-14T07:00:00+00:00",
+   "secs": 1673,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-15",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-15T04:58:00-04:00"
   }
  ]
 }

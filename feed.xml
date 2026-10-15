@@ -7,7 +7,31 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Wed, 14 Oct 2026 10:26:13 -0400</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 10:04:06 -0400</lastBuildDate>
+<item>
+<title>Thu Oct 15 · 1/3 · AI Daily Brief: What Gemini 4 Argon Is Actually Good For</title>
+<guid isPermaLink="false">drive-2026-10-15-1f38e3f9-81da-42d5-9be2-bc9be171efdb</guid>
+<pubDate>Thu, 15 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/127481839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434179246-44100-2-5ef2e39d02e93.mp3" length="29338226" type="audio/mpeg"/>
+<itunes:duration>1833</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/What-Gemini-4-Argon-Is-Actually-Good-For-e3qguhf</link>
+</item>
+<item>
+<title>Thu Oct 15 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Eyes on McKenna + Early Goalie Controversy?</title>
+<guid isPermaLink="false">drive-2026-10-15-39018e25-a3a3-422b-8086-b3c5d98a52fb</guid>
+<pubDate>Thu, 15 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9609ef2b-90c8-4b5b-9e94-281b3f3f9111/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=9609ef2b-90c8-4b5b-9e94-281b3f3f9111&amp;feed=4jXBOWgY" length="47903265" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Thu Oct 15 · 3/3 · MrBallen: 0 Days Since Last Accident (PODCAST EXCLUSIVE EPISODE)</title>
+<guid isPermaLink="false">drive-2026-10-15-3f3b3491-5fa4-40ae-9325-ceae728f16f0</guid>
+<pubDate>Thu, 15 Oct 2026 04:58:00 -0400</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/5a23bcb5-4b1f-4f31-ab45-f39d44255ed4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=5a23bcb5-4b1f-4f31-ab45-f39d44255ed4&amp;feed=dloY8UYJ" length="26774558" type="audio/mpeg"/>
+<itunes:duration>1673</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
 <item>
 <title>Wed Oct 14 · 1/3 · AI Daily Brief: Why Muse Wonder Is Dividing AI Users</title>
 <guid isPermaLink="false">drive-2026-10-14-f4076144-72fd-4a61-bab3-05b38603e36d</guid>
@@ -166,30 +190,6 @@
 <pubDate>Thu, 08 Oct 2026 04:58:00 -0400</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4fca8765-b089-4e44-800c-0c0c2c19e485/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=4fca8765-b089-4e44-800c-0c0c2c19e485&amp;feed=dloY8UYJ" length="26177712" type="audio/mpeg"/>
 <itunes:duration>1636</itunes:duration>
-<link>https://ballenstudios.com/</link>
-</item>
-<item>
-<title>Wed Oct 7 · 1/3 · AI Daily Brief: Point-Counterpoint: Consumers Will Never Pay for AI</title>
-<guid isPermaLink="false">drive-2026-10-07-ccd5b7ac-a102-4b83-a99a-e62c2e10ee9e</guid>
-<pubDate>Wed, 07 Oct 2026 05:00:00 -0400</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/126965801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-6%2F433513722-44100-2-69f494a7c8499.mp3" length="26348981" type="audio/mpeg"/>
-<itunes:duration>1646</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Point-Counterpoint-Consumers-Will-Never-Pay-for-AI-e3q16j9</link>
-</item>
-<item>
-<title>Wed Oct 7 · 2/3 · Real Kyper &amp; Bourne: Elliotte Friedman Breaks Down Marchenko Blockbuster + Season Predictions!</title>
-<guid isPermaLink="false">drive-2026-10-07-07f31c34-3753-4c23-bcc5-5a9206787def</guid>
-<pubDate>Wed, 07 Oct 2026 04:59:00 -0400</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/7548fcc5-2375-468f-b9e5-5e97c5066962/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=7548fcc5-2375-468f-b9e5-5e97c5066962&amp;feed=4jXBOWgY" length="47938791" type="audio/mpeg"/>
-<itunes:duration>2996</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Wed Oct 7 · 3/3 · MrBallen: Brutal Mercy (PODCAST EXCLUSIVE EPISODE)</title>
-<guid isPermaLink="false">drive-2026-10-07-f280f1b8-c92d-4a7e-8487-df0b59a2fe33</guid>
-<pubDate>Wed, 07 Oct 2026 04:58:00 -0400</pubDate>
-<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/0bff8699-f940-47eb-bb98-938f1acdf62a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=0bff8699-f940-47eb-bb98-938f1acdf62a&amp;feed=dloY8UYJ" length="26359930" type="audio/mpeg"/>
-<itunes:duration>1647</itunes:duration>
 <link>https://ballenstudios.com/</link>
 </item>
 </channel>
