@@ -10,7 +10,8 @@
    "c6d49af5-9d42-4cb3-802d-02d561d3a4e1",
    "f4076144-72fd-4a61-bab3-05b38603e36d",
    "1f38e3f9-81da-42d5-9be2-bc9be171efdb",
-   "7a1813dc-2db5-46e9-afc7-963453d43910"
+   "7a1813dc-2db5-46e9-afc7-963453d43910",
+   "fda04d9b-832c-4032-b45f-bd478fac7ddb"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -23,7 +24,8 @@
    "8670d6b2-cbc5-4925-903e-8a6360890ce6",
    "0163545a-e941-47a1-9f4e-e5531e23e0bc",
    "39018e25-a3a3-422b-8086-b3c5d98a52fb",
-   "8c138bf8-b4d4-4cbd-811b-68ad41e9122d"
+   "8c138bf8-b4d4-4cbd-811b-68ad41e9122d",
+   "8010b20d-149e-49b2-822f-032ff0e7b1e7"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -40,51 +42,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "b5005405-23aa-4f48-963b-4d92960d1634",
-   "title": "The Most Important Trends in New AI Products",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127147424/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-8%2F433738897-44100-2-b4fe71a457af3.mp3",
-   "length": "26776972",
-   "type": "audio/mpeg",
-   "published": "2026-10-09T00:00:39+00:00",
-   "secs": 1673,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Most-Important-Trends-in-New-AI-Products-e3q6nv0",
-   "day": "2026-10-09",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-09T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "ecbf9ab0-1e24-4e97-ba50-5cf0ac546bbc",
-   "title": "Opening Day Optimism with Kirk Muller and David Amber",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/67a09368-eba6-4e97-a9aa-889e501ef7ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=67a09368-eba6-4e97-a9aa-889e501ef7ae&feed=4jXBOWgY",
-   "length": "47921237",
-   "type": "audio/mpeg",
-   "published": "2026-09-29T21:59:41+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-09",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-09T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "1e3ad6f4-175f-4d48-81d6-5e5275175bb9",
-   "title": "Sometimes the Vanished Never Return | Campfire for a Cause",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/b2ce94db-2828-4973-b8c3-6f135d50342a/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=b2ce94db-2828-4973-b8c3-6f135d50342a&feed=dloY8UYJ",
-   "length": "55521791",
-   "type": "audio/mpeg",
-   "published": "2026-10-02T07:00:00+00:00",
-   "secs": 3470,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-09",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-09T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "9a287cfa-9e3f-422e-b951-6009391a939d",
@@ -384,6 +341,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-16T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "fda04d9b-832c-4032-b45f-bd478fac7ddb",
+   "title": "The Most Important AI News This Week Is Getting Overlooked",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127588942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434325005-44100-2-5490e254caf05.mp3",
+   "length": "28183822",
+   "type": "audio/mpeg",
+   "published": "2026-10-16T18:19:09+00:00",
+   "secs": 1761,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Most-Important-AI-News-This-Week-Is-Getting-Overlooked-e3qk74e",
+   "day": "2026-10-17",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-17T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "8010b20d-149e-49b2-822f-032ff0e7b1e7",
+   "title": "Leafs Hour: Gavin Gets On the Board + the Mailbag!",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/44e2a3f3-cfd0-4a30-bc5c-ccdb59c07224/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=44e2a3f3-cfd0-4a30-bc5c-ccdb59c07224&feed=4jXBOWgY",
+   "length": "47858543",
+   "type": "audio/mpeg",
+   "published": "2026-10-07T20:59:51+00:00",
+   "secs": 2991,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-17",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-17T04:59:00-04:00"
   }
  ]
 }
