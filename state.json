@@ -27,7 +27,8 @@
    "39018e25-a3a3-422b-8086-b3c5d98a52fb",
    "8c138bf8-b4d4-4cbd-811b-68ad41e9122d",
    "8010b20d-149e-49b2-822f-032ff0e7b1e7",
-   "9f6aaccc-c4a4-42c7-8cc3-1196a4e85e6f"
+   "9f6aaccc-c4a4-42c7-8cc3-1196a4e85e6f",
+   "9752812b-bd1d-45fd-8e57-9590df8258b7"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -40,55 +41,11 @@
    "1c84bbca-d1ba-4c56-94cb-be508f68691f",
    "abc155bf-c4e7-4324-b770-4c105d84cbc3",
    "3f3b3491-5fa4-40ae-9325-ceae728f16f0",
-   "fe3d9b78-e59a-49cf-afe3-74638f128bca"
+   "fe3d9b78-e59a-49cf-afe3-74638f128bca",
+   "3061b772-c2f2-4abf-b632-98f25a5b9df6"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "e0777b20-ac9a-4f48-ae52-dcb41ce88d60",
-   "title": "The 5 Debates Shaping AI",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127285837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F433914144-44100-2-0974aebfc49d6.mp3",
-   "length": "24418428",
-   "type": "audio/mpeg",
-   "published": "2026-10-11T10:58:13+00:00",
-   "secs": 1526,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-5-Debates-Shaping-AI-e3qav4d",
-   "day": "2026-10-11",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-11T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "61ed1792-08a6-464b-b6e2-23f355dc768c",
-   "title": "Leafs Hour: Early-Season Lineup Questions",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e0c028c3-423f-46f8-a0f8-463ff10977c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e0c028c3-423f-46f8-a0f8-463ff10977c4&feed=4jXBOWgY",
-   "length": "47807970",
-   "type": "audio/mpeg",
-   "published": "2026-10-01T21:02:57+00:00",
-   "secs": 2987,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-11",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-11T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "464fd06d-b486-45ac-b3e8-56c0305b3c72",
-   "title": "The Nightmare Cure (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/22fc785b-e86a-4cb0-b701-dca4868c09bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=22fc785b-e86a-4cb0-b701-dca4868c09bd&feed=dloY8UYJ",
-   "length": "21830519",
-   "type": "audio/mpeg",
-   "published": "2026-10-07T07:00:00+00:00",
-   "secs": 1364,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-11",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-11T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "c6d49af5-9d42-4cb3-802d-02d561d3a4e1",
@@ -358,6 +315,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-18T04:59:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "9752812b-bd1d-45fd-8e57-9590df8258b7",
+   "title": "Leafs Hour: Buds Go Down in the Desert + Return of the Leafs Line!",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/bc6b322c-4b20-49ed-bd07-4fe1b52583d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=bc6b322c-4b20-49ed-bd07-4fe1b52583d2&feed=4jXBOWgY",
+   "length": "47910370",
+   "type": "audio/mpeg",
+   "published": "2026-10-09T20:59:00+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-19",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-19T05:00:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "3061b772-c2f2-4abf-b632-98f25a5b9df6",
+   "title": "Under Construction (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/3e7c8251-2da1-4427-867f-7374e5c461e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=3e7c8251-2da1-4427-867f-7374e5c461e3&feed=dloY8UYJ",
+   "length": "31930128",
+   "type": "audio/mpeg",
+   "published": "2026-10-19T07:00:00+00:00",
+   "secs": 1995,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-19",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-19T04:59:00-04:00"
   }
  ]
 }
