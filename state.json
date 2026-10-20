@@ -12,7 +12,8 @@
    "1f38e3f9-81da-42d5-9be2-bc9be171efdb",
    "7a1813dc-2db5-46e9-afc7-963453d43910",
    "fda04d9b-832c-4032-b45f-bd478fac7ddb",
-   "2e7e85c6-3669-4fda-9436-a7359086f7d8"
+   "2e7e85c6-3669-4fda-9436-a7359086f7d8",
+   "0f766994-679b-4091-80ae-a7b3a91e7b86"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -28,7 +29,8 @@
    "8c138bf8-b4d4-4cbd-811b-68ad41e9122d",
    "8010b20d-149e-49b2-822f-032ff0e7b1e7",
    "9f6aaccc-c4a4-42c7-8cc3-1196a4e85e6f",
-   "9752812b-bd1d-45fd-8e57-9590df8258b7"
+   "9752812b-bd1d-45fd-8e57-9590df8258b7",
+   "e5d07ebe-7ce3-436b-9500-efcf95f54e33"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -46,51 +48,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "c6d49af5-9d42-4cb3-802d-02d561d3a4e1",
-   "title": "How to Go from AI Power User to AI Leader",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127334818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433980474-44100-2-50ecff4b40daf.mp3",
-   "length": "37905971",
-   "type": "audio/mpeg",
-   "published": "2026-10-12T14:59:24+00:00",
-   "secs": 2369,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Go-from-AI-Power-User-to-AI-Leader-e3qcev2",
-   "day": "2026-10-12",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-12T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "3aa0fcb9-556d-45e8-97c7-54dc24faa935",
-   "title": "Leafs Hour: John Chayka on New Era in Toronto + Travis Green",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/8fce1cbd-bf7e-4c40-aae7-6b65cd236c7e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=8fce1cbd-bf7e-4c40-aae7-6b65cd236c7e&feed=4jXBOWgY",
-   "length": "47908698",
-   "type": "audio/mpeg",
-   "published": "2026-10-02T21:01:15+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-12",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-12T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "f5e2b03b-4af9-453b-b58c-12a9968bb5bf",
-   "title": "From Beyond Vol. III",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/4a4ed4f1-58a8-44c8-be3c-dc97ffc6ec73/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=4a4ed4f1-58a8-44c8-be3c-dc97ffc6ec73&feed=dloY8UYJ",
-   "length": "26063977",
-   "type": "audio/mpeg",
-   "published": "2026-10-08T07:00:00+00:00",
-   "secs": 1628,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-12",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-12T04:58:00-04:00"
-  },
   {
    "show": "Real Kyper & Bourne",
    "guid": "8670d6b2-cbc5-4925-903e-8a6360890ce6",
@@ -345,6 +302,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-19T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "0f766994-679b-4091-80ae-a7b3a91e7b86",
+   "title": "The AI Wealth Problem",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127738167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434525113-44100-2-23a7b40fc4d89.mp3",
+   "length": "31211101",
+   "type": "audio/mpeg",
+   "published": "2026-10-19T20:02:07+00:00",
+   "secs": 1950,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Wealth-Problem-e3qoorn",
+   "day": "2026-10-20",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-20T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "e5d07ebe-7ce3-436b-9500-efcf95f54e33",
+   "title": "Leafs Hour: An Avalanche of Offence",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/a8a5797b-1e4a-4360-a4fc-ab16254781d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=a8a5797b-1e4a-4360-a4fc-ab16254781d5&feed=4jXBOWgY",
+   "length": "47634520",
+   "type": "audio/mpeg",
+   "published": "2026-10-12T20:59:08+00:00",
+   "secs": 2977,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-20",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-20T04:59:00-04:00"
   }
  ]
 }
