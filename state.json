@@ -13,7 +13,8 @@
    "7a1813dc-2db5-46e9-afc7-963453d43910",
    "fda04d9b-832c-4032-b45f-bd478fac7ddb",
    "2e7e85c6-3669-4fda-9436-a7359086f7d8",
-   "0f766994-679b-4091-80ae-a7b3a91e7b86"
+   "0f766994-679b-4091-80ae-a7b3a91e7b86",
+   "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -30,7 +31,8 @@
    "8010b20d-149e-49b2-822f-032ff0e7b1e7",
    "9f6aaccc-c4a4-42c7-8cc3-1196a4e85e6f",
    "9752812b-bd1d-45fd-8e57-9590df8258b7",
-   "e5d07ebe-7ce3-436b-9500-efcf95f54e33"
+   "e5d07ebe-7ce3-436b-9500-efcf95f54e33",
+   "7f379083-238d-4ac6-97b0-e80851cfe08a"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -44,40 +46,11 @@
    "abc155bf-c4e7-4324-b770-4c105d84cbc3",
    "3f3b3491-5fa4-40ae-9325-ceae728f16f0",
    "fe3d9b78-e59a-49cf-afe3-74638f128bca",
-   "3061b772-c2f2-4abf-b632-98f25a5b9df6"
+   "3061b772-c2f2-4abf-b632-98f25a5b9df6",
+   "351e6d06-36d6-450c-ac43-c72cba081dee"
   ]
  },
  "items": [
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "8670d6b2-cbc5-4925-903e-8a6360890ce6",
-   "title": "Leafs Hour: Rethinking Tavares' Second Line",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/0dd8c58a-eae3-4e37-96dd-63ea8c5d634e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=0dd8c58a-eae3-4e37-96dd-63ea8c5d634e&feed=4jXBOWgY",
-   "length": "47942551",
-   "type": "audio/mpeg",
-   "published": "2026-10-05T20:59:36+00:00",
-   "secs": 2996,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-13",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-13T05:00:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "1c84bbca-d1ba-4c56-94cb-be508f68691f",
-   "title": "Fan Favorite - \"One Foot Out the Door\"",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/46674184-0d03-47c2-b1a1-554ce6fd9031/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=46674184-0d03-47c2-b1a1-554ce6fd9031&feed=dloY8UYJ",
-   "length": "39593286",
-   "type": "audio/mpeg",
-   "published": "2026-10-09T07:00:00+00:00",
-   "secs": 2474,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-13",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-13T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "f4076144-72fd-4a61-bab3-05b38603e36d",
@@ -332,6 +305,51 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-20T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
+   "title": "Why AI Companies Are Betting Personality Beats Intelligence",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127798004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434605944-44100-2-fba18991e31bf.mp3",
+   "length": "27515923",
+   "type": "audio/mpeg",
+   "published": "2026-10-20T20:16:23+00:00",
+   "secs": 1719,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-AI-Companies-Are-Betting-Personality-Beats-Intelligence-e3qqj9k",
+   "day": "2026-10-21",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-21T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "7f379083-238d-4ac6-97b0-e80851cfe08a",
+   "title": "2026 Rookie Class Early Review with Jason Bukala",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/247044c9-d1b5-4b33-9460-e17804bf14cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=247044c9-d1b5-4b33-9460-e17804bf14cc&feed=4jXBOWgY",
+   "length": "47574334",
+   "type": "audio/mpeg",
+   "published": "2026-10-12T21:58:00+00:00",
+   "secs": 2973,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-21",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-21T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "351e6d06-36d6-450c-ac43-c72cba081dee",
+   "title": "Completely Derailed (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/573f761f-6c31-4df3-b31c-2701c34ba464/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=573f761f-6c31-4df3-b31c-2701c34ba464&feed=dloY8UYJ",
+   "length": "21288052",
+   "type": "audio/mpeg",
+   "published": "2026-10-21T07:00:00+00:00",
+   "secs": 1330,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-21",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-21T04:58:00-04:00"
   }
  ]
 }
