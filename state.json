@@ -14,7 +14,8 @@
    "fda04d9b-832c-4032-b45f-bd478fac7ddb",
    "2e7e85c6-3669-4fda-9436-a7359086f7d8",
    "0f766994-679b-4091-80ae-a7b3a91e7b86",
-   "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef"
+   "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
+   "e5d74574-145f-41bb-b23c-9c4bb6521746"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -32,7 +33,8 @@
    "9f6aaccc-c4a4-42c7-8cc3-1196a4e85e6f",
    "9752812b-bd1d-45fd-8e57-9590df8258b7",
    "e5d07ebe-7ce3-436b-9500-efcf95f54e33",
-   "7f379083-238d-4ac6-97b0-e80851cfe08a"
+   "7f379083-238d-4ac6-97b0-e80851cfe08a",
+   "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -47,55 +49,11 @@
    "3f3b3491-5fa4-40ae-9325-ceae728f16f0",
    "fe3d9b78-e59a-49cf-afe3-74638f128bca",
    "3061b772-c2f2-4abf-b632-98f25a5b9df6",
-   "351e6d06-36d6-450c-ac43-c72cba081dee"
+   "351e6d06-36d6-450c-ac43-c72cba081dee",
+   "f914acd4-f9b5-4960-84d5-3035577130ce"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "f4076144-72fd-4a61-bab3-05b38603e36d",
-   "title": "Why Muse Wonder Is Dividing AI Users",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127425638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434102226-44100-2-51e54799abf21.mp3",
-   "length": "26682513",
-   "type": "audio/mpeg",
-   "published": "2026-10-13T20:37:58+00:00",
-   "secs": 1667,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-Muse-Wonder-Is-Dividing-AI-Users-e3qf7l6",
-   "day": "2026-10-14",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-14T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "0163545a-e941-47a1-9f4e-e5531e23e0bc",
-   "title": "Coaching the Start of the Season with Bruce Cassidy",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/8afcdd28-0045-4420-b420-2f644e76eaca/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=8afcdd28-0045-4420-b420-2f644e76eaca&feed=4jXBOWgY",
-   "length": "47905772",
-   "type": "audio/mpeg",
-   "published": "2026-10-05T22:00:37+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-14",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-14T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "abc155bf-c4e7-4324-b770-4c105d84cbc3",
-   "title": "The Hidden Connection (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/43858c66-684c-413b-bb63-dc5476078145/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=43858c66-684c-413b-bb63-dc5476078145&feed=dloY8UYJ",
-   "length": "28575170",
-   "type": "audio/mpeg",
-   "published": "2026-10-12T07:00:00+00:00",
-   "secs": 1785,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-14",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-14T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "1f38e3f9-81da-42d5-9be2-bc9be171efdb",
@@ -350,6 +308,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-21T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "e5d74574-145f-41bb-b23c-9c4bb6521746",
+   "title": "How AI Is Changing What Work Means",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127854152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684502-44100-2-fb499778e5ba2.mp3",
+   "length": "27212067",
+   "type": "audio/mpeg",
+   "published": "2026-10-21T20:03:52+00:00",
+   "secs": 1700,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-AI-Is-Changing-What-Work-Means-e3qsa48",
+   "day": "2026-10-22",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-22T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e",
+   "title": "Leafs Hour: A Mammoth Game Looms",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/f9efefde-6e97-4826-91c9-58be93ccc755/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=f9efefde-6e97-4826-91c9-58be93ccc755&feed=4jXBOWgY",
+   "length": "47566389",
+   "type": "audio/mpeg",
+   "published": "2026-10-13T21:01:31+00:00",
+   "secs": 2972,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-22",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-22T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "f914acd4-f9b5-4960-84d5-3035577130ce",
+   "title": "Born Together",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/26e8c781-b86b-44cd-8503-8cd5b9f101bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=26e8c781-b86b-44cd-8503-8cd5b9f101bc&feed=dloY8UYJ",
+   "length": "24228718",
+   "type": "audio/mpeg",
+   "published": "2026-10-22T07:00:00+00:00",
+   "secs": 1514,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-22",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-22T04:58:00-04:00"
   }
  ]
 }
