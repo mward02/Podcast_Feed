@@ -15,7 +15,8 @@
    "2e7e85c6-3669-4fda-9436-a7359086f7d8",
    "0f766994-679b-4091-80ae-a7b3a91e7b86",
    "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
-   "e5d74574-145f-41bb-b23c-9c4bb6521746"
+   "e5d74574-145f-41bb-b23c-9c4bb6521746",
+   "8cd35e70-6ecb-408d-b5e5-2a098c7486ac"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -34,7 +35,8 @@
    "9752812b-bd1d-45fd-8e57-9590df8258b7",
    "e5d07ebe-7ce3-436b-9500-efcf95f54e33",
    "7f379083-238d-4ac6-97b0-e80851cfe08a",
-   "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e"
+   "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e",
+   "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -50,55 +52,11 @@
    "fe3d9b78-e59a-49cf-afe3-74638f128bca",
    "3061b772-c2f2-4abf-b632-98f25a5b9df6",
    "351e6d06-36d6-450c-ac43-c72cba081dee",
-   "f914acd4-f9b5-4960-84d5-3035577130ce"
+   "f914acd4-f9b5-4960-84d5-3035577130ce",
+   "a2268db0-d4ef-4db3-8289-267ab7fe7dcd"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "1f38e3f9-81da-42d5-9be2-bc9be171efdb",
-   "title": "What Gemini 4 Argon Is Actually Good For",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127481839/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434179246-44100-2-5ef2e39d02e93.mp3",
-   "length": "29338226",
-   "type": "audio/mpeg",
-   "published": "2026-10-14T19:56:06+00:00",
-   "secs": 1833,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/What-Gemini-4-Argon-Is-Actually-Good-For-e3qguhf",
-   "day": "2026-10-15",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-15T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "39018e25-a3a3-422b-8086-b3c5d98a52fb",
-   "title": "Leafs Hour: Eyes on McKenna + Early Goalie Controversy?",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9609ef2b-90c8-4b5b-9e94-281b3f3f9111/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=9609ef2b-90c8-4b5b-9e94-281b3f3f9111&feed=4jXBOWgY",
-   "length": "47903265",
-   "type": "audio/mpeg",
-   "published": "2026-10-06T21:01:57+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-15",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-15T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "3f3b3491-5fa4-40ae-9325-ceae728f16f0",
-   "title": "0 Days Since Last Accident (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/5a23bcb5-4b1f-4f31-ab45-f39d44255ed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=5a23bcb5-4b1f-4f31-ab45-f39d44255ed4&feed=dloY8UYJ",
-   "length": "26774558",
-   "type": "audio/mpeg",
-   "published": "2026-10-14T07:00:00+00:00",
-   "secs": 1673,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-15",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-15T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "7a1813dc-2db5-46e9-afc7-963453d43910",
@@ -353,6 +311,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-22T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
+   "title": "The AI vs AI Battle for the Internet",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127912717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434765371-44100-2-ba24a88164185.mp3",
+   "length": "27016462",
+   "type": "audio/mpeg",
+   "published": "2026-10-22T20:15:15+00:00",
+   "secs": 1688,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-vs-AI-Battle-for-the-Internet-e3qu3ad",
+   "day": "2026-10-23",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-23T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c",
+   "title": "Vally's View: Shesterkin's Injury + the Risks of Reverse VH",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/1b847594-7770-435d-9719-2b96eaa09af7/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=1b847594-7770-435d-9719-2b96eaa09af7&feed=4jXBOWgY",
+   "length": "47801282",
+   "type": "audio/mpeg",
+   "published": "2026-10-13T22:01:13+00:00",
+   "secs": 2987,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-23",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-23T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "a2268db0-d4ef-4db3-8289-267ab7fe7dcd",
+   "title": "Fan Favorite - \"Holiday Fear\"",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/801f9e28-065c-4ff2-b860-f7ecfe7f15e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=801f9e28-065c-4ff2-b860-f7ecfe7f15e4&feed=dloY8UYJ",
+   "length": "38843547",
+   "type": "audio/mpeg",
+   "published": "2026-10-23T07:00:00+00:00",
+   "secs": 2427,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-23",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-23T04:58:00-04:00"
   }
  ]
 }
