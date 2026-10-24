@@ -16,7 +16,8 @@
    "0f766994-679b-4091-80ae-a7b3a91e7b86",
    "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
    "e5d74574-145f-41bb-b23c-9c4bb6521746",
-   "8cd35e70-6ecb-408d-b5e5-2a098c7486ac"
+   "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
+   "62d1d33d-62be-436b-8d5b-de9330b4b55e"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -36,7 +37,8 @@
    "e5d07ebe-7ce3-436b-9500-efcf95f54e33",
    "7f379083-238d-4ac6-97b0-e80851cfe08a",
    "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e",
-   "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c"
+   "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c",
+   "8ecdc4c9-06da-4617-b553-57496a4fb2cb"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -57,51 +59,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "7a1813dc-2db5-46e9-afc7-963453d43910",
-   "title": "How the Latest AI Leap Is Disrupting Business Models",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127543720/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434264462-44100-2-58a405fb5f99f.mp3",
-   "length": "29532159",
-   "type": "audio/mpeg",
-   "published": "2026-10-15T22:35:40+00:00",
-   "secs": 1845,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-the-Latest-AI-Leap-Is-Disrupting-Business-Models-e3qiqv8",
-   "day": "2026-10-16",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-16T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "8c138bf8-b4d4-4cbd-811b-68ad41e9122d",
-   "title": "Vally's View: Best Fit for Hellebuyck + Leafs' Second Line Numbers",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/62733d89-d03d-4f2a-b091-5cd6e1c15e70/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=62733d89-d03d-4f2a-b091-5cd6e1c15e70&feed=4jXBOWgY",
-   "length": "47924580",
-   "type": "audio/mpeg",
-   "published": "2026-10-06T22:01:38+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-16",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-16T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "fe3d9b78-e59a-49cf-afe3-74638f128bca",
-   "title": "One Last Fare/Mom's Cooking | Campfire Stories with MrBallen",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/6f3fe774-749c-4f5f-acf4-bb2fe5dbaf03/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=6f3fe774-749c-4f5f-acf4-bb2fe5dbaf03&feed=dloY8UYJ",
-   "length": "29245533",
-   "type": "audio/mpeg",
-   "published": "2026-10-16T07:00:00+00:00",
-   "secs": 1827,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-16",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-16T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "fda04d9b-832c-4032-b45f-bd478fac7ddb",
@@ -356,6 +313,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-23T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "62d1d33d-62be-436b-8d5b-de9330b4b55e",
+   "title": "The Most Concerning AI Bubble Signals",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/127968273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434838595-44100-2-2b56a37789614.mp3",
+   "length": "27663463",
+   "type": "audio/mpeg",
+   "published": "2026-10-23T18:50:38+00:00",
+   "secs": 1728,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Most-Concerning-AI-Bubble-Signals-e3qvpih",
+   "day": "2026-10-24",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-24T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "8ecdc4c9-06da-4617-b553-57496a4fb2cb",
+   "title": "Leafs Hour: Time to Make a Move on the Blueline",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/27041d0b-693c-48e2-a1a6-f65c7f1139eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=27041d0b-693c-48e2-a1a6-f65c7f1139eb&feed=4jXBOWgY",
+   "length": "47917475",
+   "type": "audio/mpeg",
+   "published": "2026-10-14T20:59:55+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-24",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-24T04:59:00-04:00"
   }
  ]
 }
