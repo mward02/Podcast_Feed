@@ -17,7 +17,8 @@
    "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
    "e5d74574-145f-41bb-b23c-9c4bb6521746",
    "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
-   "62d1d33d-62be-436b-8d5b-de9330b4b55e"
+   "62d1d33d-62be-436b-8d5b-de9330b4b55e",
+   "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -38,7 +39,8 @@
    "7f379083-238d-4ac6-97b0-e80851cfe08a",
    "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e",
    "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c",
-   "8ecdc4c9-06da-4617-b553-57496a4fb2cb"
+   "8ecdc4c9-06da-4617-b553-57496a4fb2cb",
+   "a274b599-e5a3-490f-ba9c-c1c205239cd5"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -59,36 +61,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "fda04d9b-832c-4032-b45f-bd478fac7ddb",
-   "title": "The Most Important AI News This Week Is Getting Overlooked",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127588942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434325005-44100-2-5490e254caf05.mp3",
-   "length": "28183822",
-   "type": "audio/mpeg",
-   "published": "2026-10-16T18:19:09+00:00",
-   "secs": 1761,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Most-Important-AI-News-This-Week-Is-Getting-Overlooked-e3qk74e",
-   "day": "2026-10-17",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-17T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "8010b20d-149e-49b2-822f-032ff0e7b1e7",
-   "title": "Leafs Hour: Gavin Gets On the Board + the Mailbag!",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/44e2a3f3-cfd0-4a30-bc5c-ccdb59c07224/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=44e2a3f3-cfd0-4a30-bc5c-ccdb59c07224&feed=4jXBOWgY",
-   "length": "47858543",
-   "type": "audio/mpeg",
-   "published": "2026-10-07T20:59:51+00:00",
-   "secs": 2991,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-17",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-17T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "2e7e85c6-3669-4fda-9436-a7359086f7d8",
@@ -343,6 +315,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-24T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
+   "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128042332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434934876-44100-2-bf71c322fe7c4.mp3",
+   "length": "31171812",
+   "type": "audio/mpeg",
+   "published": "2026-10-25T11:36:36+00:00",
+   "secs": 1948,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-Im-Actually-Using-AI-Right-Now-Including-Claude-Duet-e3r21ss",
+   "day": "2026-10-25",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-25T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "a274b599-e5a3-490f-ba9c-c1c205239cd5",
+   "title": "Leafs Hour: Lineup Shuffle Against the Sabres",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b9f03c29-d9c3-415e-8bdd-906b6983146f/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=b9f03c29-d9c3-415e-8bdd-906b6983146f&feed=4jXBOWgY",
+   "length": "47924580",
+   "type": "audio/mpeg",
+   "published": "2026-10-15T21:01:06+00:00",
+   "secs": 2995,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-25",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-25T04:59:00-04:00"
   }
  ]
 }

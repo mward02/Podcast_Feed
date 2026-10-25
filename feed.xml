@@ -7,7 +7,23 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sat, 24 Oct 2026 09:12:51 -0400</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 09:38:45 -0400</lastBuildDate>
+<item>
+<title>Sun Oct 25 · 1/2 · AI Daily Brief: How I&#x27;m Actually Using AI Right Now (Including Claude Duet)</title>
+<guid isPermaLink="false">drive-2026-10-25-4afc90b0-5b40-4cdc-abcf-a51b9a735ea6</guid>
+<pubDate>Sun, 25 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/128042332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434934876-44100-2-bf71c322fe7c4.mp3" length="31171812" type="audio/mpeg"/>
+<itunes:duration>1948</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Im-Actually-Using-AI-Right-Now-Including-Claude-Duet-e3r21ss</link>
+</item>
+<item>
+<title>Sun Oct 25 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: Lineup Shuffle Against the Sabres</title>
+<guid isPermaLink="false">drive-2026-10-25-a274b599-e5a3-490f-ba9c-c1c205239cd5</guid>
+<pubDate>Sun, 25 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b9f03c29-d9c3-415e-8bdd-906b6983146f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=b9f03c29-d9c3-415e-8bdd-906b6983146f&amp;feed=4jXBOWgY" length="47924580" type="audio/mpeg"/>
+<itunes:duration>2995</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Sat Oct 24 · 1/2 · AI Daily Brief: The Most Concerning AI Bubble Signals</title>
 <guid isPermaLink="false">drive-2026-10-24-62d1d33d-62be-436b-8d5b-de9330b4b55e</guid>
@@ -142,22 +158,6 @@
 <pubDate>Sun, 18 Oct 2026 04:59:00 -0400</pubDate>
 <enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/9cea920a-fec7-437f-bc00-5bd12cc14b10/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=9cea920a-fec7-437f-bc00-5bd12cc14b10&amp;feed=4jXBOWgY" length="47935447" type="audio/mpeg"/>
 <itunes:duration>2995</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Sat Oct 17 · 1/2 · AI Daily Brief: The Most Important AI News This Week Is Getting Overlooked</title>
-<guid isPermaLink="false">drive-2026-10-17-fda04d9b-832c-4032-b45f-bd478fac7ddb</guid>
-<pubDate>Sat, 17 Oct 2026 05:00:00 -0400</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/127588942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-16%2F434325005-44100-2-5490e254caf05.mp3" length="28183822" type="audio/mpeg"/>
-<itunes:duration>1761</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/The-Most-Important-AI-News-This-Week-Is-Getting-Overlooked-e3qk74e</link>
-</item>
-<item>
-<title>Sat Oct 17 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: Gavin Gets On the Board + the Mailbag!</title>
-<guid isPermaLink="false">drive-2026-10-17-8010b20d-149e-49b2-822f-032ff0e7b1e7</guid>
-<pubDate>Sat, 17 Oct 2026 04:59:00 -0400</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/44e2a3f3-cfd0-4a30-bc5c-ccdb59c07224/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=44e2a3f3-cfd0-4a30-bc5c-ccdb59c07224&amp;feed=4jXBOWgY" length="47858543" type="audio/mpeg"/>
-<itunes:duration>2991</itunes:duration>
 <link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
 </item>
 </channel>
