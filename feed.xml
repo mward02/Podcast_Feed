@@ -7,7 +7,23 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Mon, 26 Oct 2026 12:01:18 -0400</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 11:15:17 -0400</lastBuildDate>
+<item>
+<title>Tue Oct 27 · 1/2 · AI Daily Brief: 4 Questions for AI This Week</title>
+<guid isPermaLink="false">drive-2026-10-27-e8fc5e61-5f35-4a58-bfa6-34d9e1949153</guid>
+<pubDate>Tue, 27 Oct 2026 05:00:00 -0400</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/128131715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435051380-44100-2-16afd38d48655.mp3" length="26061426" type="audio/mpeg"/>
+<itunes:duration>1628</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/4-Questions-for-AI-This-Week-e3r4p63</link>
+</item>
+<item>
+<title>Tue Oct 27 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: End of the Hiller Honeymoon Phase</title>
+<guid isPermaLink="false">drive-2026-10-27-173764b5-c9c1-448e-83ce-6640c50e61a2</guid>
+<pubDate>Tue, 27 Oct 2026 04:59:00 -0400</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/4571274b-ccbd-4e13-b458-cbf20a3ee9b1/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=4571274b-ccbd-4e13-b458-cbf20a3ee9b1&amp;feed=4jXBOWgY" length="47897831" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Mon Oct 26 · 1/3 · AI Daily Brief: Introducing How We Got Here -- NLW&#x27;s new podcast</title>
 <guid isPermaLink="false">drive-2026-10-26-7145131c-3627-480a-b971-01a5203fe41f</guid>
@@ -151,22 +167,6 @@
 <enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/a8a5797b-1e4a-4360-a4fc-ab16254781d5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=a8a5797b-1e4a-4360-a4fc-ab16254781d5&amp;feed=4jXBOWgY" length="47634520" type="audio/mpeg"/>
 <itunes:duration>2977</itunes:duration>
 <link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Mon Oct 19 · 1/2 · Real Kyper &amp; Bourne: Leafs Hour: Buds Go Down in the Desert + Return of the Leafs Line!</title>
-<guid isPermaLink="false">drive-2026-10-19-9752812b-bd1d-45fd-8e57-9590df8258b7</guid>
-<pubDate>Mon, 19 Oct 2026 05:00:00 -0400</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/bc6b322c-4b20-49ed-bd07-4fe1b52583d2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=bc6b322c-4b20-49ed-bd07-4fe1b52583d2&amp;feed=4jXBOWgY" length="47910370" type="audio/mpeg"/>
-<itunes:duration>2994</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Mon Oct 19 · 2/2 · MrBallen: Under Construction (PODCAST EXCLUSIVE EPISODE)</title>
-<guid isPermaLink="false">drive-2026-10-19-3061b772-c2f2-4abf-b632-98f25a5b9df6</guid>
-<pubDate>Mon, 19 Oct 2026 04:59:00 -0400</pubDate>
-<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/3e7c8251-2da1-4427-867f-7374e5c461e3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=3e7c8251-2da1-4427-867f-7374e5c461e3&amp;feed=dloY8UYJ" length="31930128" type="audio/mpeg"/>
-<itunes:duration>1995</itunes:duration>
-<link>https://ballenstudios.com/</link>
 </item>
 </channel>
 </rss>

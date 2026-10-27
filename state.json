@@ -19,7 +19,8 @@
    "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
    "62d1d33d-62be-436b-8d5b-de9330b4b55e",
    "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
-   "7145131c-3627-480a-b971-01a5203fe41f"
+   "7145131c-3627-480a-b971-01a5203fe41f",
+   "e8fc5e61-5f35-4a58-bfa6-34d9e1949153"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -42,7 +43,8 @@
    "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c",
    "8ecdc4c9-06da-4617-b553-57496a4fb2cb",
    "a274b599-e5a3-490f-ba9c-c1c205239cd5",
-   "9505a39f-cadc-4b24-8a1c-0cfbbb201871"
+   "9505a39f-cadc-4b24-8a1c-0cfbbb201871",
+   "173764b5-c9c1-448e-83ce-6640c50e61a2"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -64,36 +66,6 @@
   ]
  },
  "items": [
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "9752812b-bd1d-45fd-8e57-9590df8258b7",
-   "title": "Leafs Hour: Buds Go Down in the Desert + Return of the Leafs Line!",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/bc6b322c-4b20-49ed-bd07-4fe1b52583d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=bc6b322c-4b20-49ed-bd07-4fe1b52583d2&feed=4jXBOWgY",
-   "length": "47910370",
-   "type": "audio/mpeg",
-   "published": "2026-10-09T20:59:00+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-19",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-19T05:00:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "3061b772-c2f2-4abf-b632-98f25a5b9df6",
-   "title": "Under Construction (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/3e7c8251-2da1-4427-867f-7374e5c461e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=3e7c8251-2da1-4427-867f-7374e5c461e3&feed=dloY8UYJ",
-   "length": "31930128",
-   "type": "audio/mpeg",
-   "published": "2026-10-19T07:00:00+00:00",
-   "secs": 1995,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-19",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-19T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "0f766994-679b-4091-80ae-a7b3a91e7b86",
@@ -363,6 +335,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-26T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "e8fc5e61-5f35-4a58-bfa6-34d9e1949153",
+   "title": "4 Questions for AI This Week",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128131715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435051380-44100-2-16afd38d48655.mp3",
+   "length": "26061426",
+   "type": "audio/mpeg",
+   "published": "2026-10-26T19:49:36+00:00",
+   "secs": 1628,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/4-Questions-for-AI-This-Week-e3r4p63",
+   "day": "2026-10-27",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-27T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "173764b5-c9c1-448e-83ce-6640c50e61a2",
+   "title": "Leafs Hour: End of the Hiller Honeymoon Phase",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/4571274b-ccbd-4e13-b458-cbf20a3ee9b1/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=4571274b-ccbd-4e13-b458-cbf20a3ee9b1&feed=4jXBOWgY",
+   "length": "47897831",
+   "type": "audio/mpeg",
+   "published": "2026-10-19T21:01:51+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-27",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-27T04:59:00-04:00"
   }
  ]
 }
