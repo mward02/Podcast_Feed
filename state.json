@@ -20,7 +20,8 @@
    "62d1d33d-62be-436b-8d5b-de9330b4b55e",
    "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
    "7145131c-3627-480a-b971-01a5203fe41f",
-   "e8fc5e61-5f35-4a58-bfa6-34d9e1949153"
+   "e8fc5e61-5f35-4a58-bfa6-34d9e1949153",
+   "fa95888a-323a-45b3-ade6-0b0b18017c7e"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -44,7 +45,8 @@
    "8ecdc4c9-06da-4617-b553-57496a4fb2cb",
    "a274b599-e5a3-490f-ba9c-c1c205239cd5",
    "9505a39f-cadc-4b24-8a1c-0cfbbb201871",
-   "173764b5-c9c1-448e-83ce-6640c50e61a2"
+   "173764b5-c9c1-448e-83ce-6640c50e61a2",
+   "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -66,36 +68,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "0f766994-679b-4091-80ae-a7b3a91e7b86",
-   "title": "The AI Wealth Problem",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127738167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-19%2F434525113-44100-2-23a7b40fc4d89.mp3",
-   "length": "31211101",
-   "type": "audio/mpeg",
-   "published": "2026-10-19T20:02:07+00:00",
-   "secs": 1950,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Wealth-Problem-e3qoorn",
-   "day": "2026-10-20",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-20T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "e5d07ebe-7ce3-436b-9500-efcf95f54e33",
-   "title": "Leafs Hour: An Avalanche of Offence",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/a8a5797b-1e4a-4360-a4fc-ab16254781d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=a8a5797b-1e4a-4360-a4fc-ab16254781d5&feed=4jXBOWgY",
-   "length": "47634520",
-   "type": "audio/mpeg",
-   "published": "2026-10-12T20:59:08+00:00",
-   "secs": 2977,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-20",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-20T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
@@ -365,6 +337,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-27T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "fa95888a-323a-45b3-ade6-0b0b18017c7e",
+   "title": "What Anthropic\u2019s IPO Filing Reveals",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128215973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435159882-44100-2-9781de5240b11.mp3",
+   "length": "27643401",
+   "type": "audio/mpeg",
+   "published": "2026-10-27T21:10:01+00:00",
+   "secs": 1727,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/What-Anthropics-IPO-Filing-Reveals-e3r7bf5",
+   "day": "2026-10-28",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-28T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc",
+   "title": "Hellebuyck's Suspension + Three No. 1 Picks Face-Off in Toronto",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/06e5c353-586a-4626-a362-0efc97747b02/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=06e5c353-586a-4626-a362-0efc97747b02&feed=4jXBOWgY",
+   "length": "47919147",
+   "type": "audio/mpeg",
+   "published": "2026-10-19T22:00:21+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-28",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-28T04:59:00-04:00"
   }
  ]
 }
