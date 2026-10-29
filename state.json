@@ -21,7 +21,8 @@
    "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
    "7145131c-3627-480a-b971-01a5203fe41f",
    "e8fc5e61-5f35-4a58-bfa6-34d9e1949153",
-   "fa95888a-323a-45b3-ade6-0b0b18017c7e"
+   "fa95888a-323a-45b3-ade6-0b0b18017c7e",
+   "3a903336-ed7e-4103-aed9-e9820b988ab1"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -46,7 +47,8 @@
    "a274b599-e5a3-490f-ba9c-c1c205239cd5",
    "9505a39f-cadc-4b24-8a1c-0cfbbb201871",
    "173764b5-c9c1-448e-83ce-6640c50e61a2",
-   "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc"
+   "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc",
+   "69f40605-3848-499e-b634-e92826839c1b"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -64,55 +66,11 @@
    "351e6d06-36d6-450c-ac43-c72cba081dee",
    "f914acd4-f9b5-4960-84d5-3035577130ce",
    "a2268db0-d4ef-4db3-8289-267ab7fe7dcd",
-   "ab0f1585-cfad-40dd-a852-071a86bd9645"
+   "ab0f1585-cfad-40dd-a852-071a86bd9645",
+   "f90b985f-10c5-451b-9625-dd9d3cf98371"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "b253d114-1bbb-4e7a-8f89-eea7ec90f3ef",
-   "title": "Why AI Companies Are Betting Personality Beats Intelligence",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127798004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F434605944-44100-2-fba18991e31bf.mp3",
-   "length": "27515923",
-   "type": "audio/mpeg",
-   "published": "2026-10-20T20:16:23+00:00",
-   "secs": 1719,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-AI-Companies-Are-Betting-Personality-Beats-Intelligence-e3qqj9k",
-   "day": "2026-10-21",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-21T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "7f379083-238d-4ac6-97b0-e80851cfe08a",
-   "title": "2026 Rookie Class Early Review with Jason Bukala",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/247044c9-d1b5-4b33-9460-e17804bf14cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=247044c9-d1b5-4b33-9460-e17804bf14cc&feed=4jXBOWgY",
-   "length": "47574334",
-   "type": "audio/mpeg",
-   "published": "2026-10-12T21:58:00+00:00",
-   "secs": 2973,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-21",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-21T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "351e6d06-36d6-450c-ac43-c72cba081dee",
-   "title": "Completely Derailed (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/573f761f-6c31-4df3-b31c-2701c34ba464/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=573f761f-6c31-4df3-b31c-2701c34ba464&feed=dloY8UYJ",
-   "length": "21288052",
-   "type": "audio/mpeg",
-   "published": "2026-10-21T07:00:00+00:00",
-   "secs": 1330,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-21",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-21T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "e5d74574-145f-41bb-b23c-9c4bb6521746",
@@ -367,6 +325,51 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-28T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "3a903336-ed7e-4103-aed9-e9820b988ab1",
+   "title": "AI Can Now Create Worlds You Can Change in Real Time",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128303802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F435269554-44100-2-27523823ae90a.mp3",
+   "length": "28096887",
+   "type": "audio/mpeg",
+   "published": "2026-10-28T20:43:55+00:00",
+   "secs": 1756,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-Can-Now-Create-Worlds-You-Can-Change-in-Real-Time-e3ra17q",
+   "day": "2026-10-29",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-29T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "69f40605-3848-499e-b634-e92826839c1b",
+   "title": "Leafs Hour: Marchenko's Columbus Return",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/2a9aeb72-ddd1-4b6a-a368-90ec052ae758/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=2a9aeb72-ddd1-4b6a-a368-90ec052ae758&feed=4jXBOWgY",
+   "length": "47877767",
+   "type": "audio/mpeg",
+   "published": "2026-10-20T21:00:48+00:00",
+   "secs": 2992,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-29",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-29T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "f90b985f-10c5-451b-9625-dd9d3cf98371",
+   "title": "Spectral",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/6201981f-46e0-444e-be1f-b31ee3defef0/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=6201981f-46e0-444e-be1f-b31ee3defef0&feed=dloY8UYJ",
+   "length": "30030460",
+   "type": "audio/mpeg",
+   "published": "2026-10-29T07:00:00+00:00",
+   "secs": 1876,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-29",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-29T04:58:00-04:00"
   }
  ]
 }
