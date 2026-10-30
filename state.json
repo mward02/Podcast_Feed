@@ -22,7 +22,8 @@
    "7145131c-3627-480a-b971-01a5203fe41f",
    "e8fc5e61-5f35-4a58-bfa6-34d9e1949153",
    "fa95888a-323a-45b3-ade6-0b0b18017c7e",
-   "3a903336-ed7e-4103-aed9-e9820b988ab1"
+   "3a903336-ed7e-4103-aed9-e9820b988ab1",
+   "63cd51ab-365a-473e-b374-77869bb7ee26"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -48,7 +49,8 @@
    "9505a39f-cadc-4b24-8a1c-0cfbbb201871",
    "173764b5-c9c1-448e-83ce-6640c50e61a2",
    "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc",
-   "69f40605-3848-499e-b634-e92826839c1b"
+   "69f40605-3848-499e-b634-e92826839c1b",
+   "af69f479-f303-41b3-81bf-8f45147ba327"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -67,55 +69,11 @@
    "f914acd4-f9b5-4960-84d5-3035577130ce",
    "a2268db0-d4ef-4db3-8289-267ab7fe7dcd",
    "ab0f1585-cfad-40dd-a852-071a86bd9645",
-   "f90b985f-10c5-451b-9625-dd9d3cf98371"
+   "f90b985f-10c5-451b-9625-dd9d3cf98371",
+   "d65616f3-a143-4a66-82f0-d474d2874b7d"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "e5d74574-145f-41bb-b23c-9c4bb6521746",
-   "title": "How AI Is Changing What Work Means",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127854152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434684502-44100-2-fb499778e5ba2.mp3",
-   "length": "27212067",
-   "type": "audio/mpeg",
-   "published": "2026-10-21T20:03:52+00:00",
-   "secs": 1700,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-AI-Is-Changing-What-Work-Means-e3qsa48",
-   "day": "2026-10-22",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-22T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "6cfaa5a2-4e93-4dde-bd64-83ee6e41363e",
-   "title": "Leafs Hour: A Mammoth Game Looms",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/f9efefde-6e97-4826-91c9-58be93ccc755/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=f9efefde-6e97-4826-91c9-58be93ccc755&feed=4jXBOWgY",
-   "length": "47566389",
-   "type": "audio/mpeg",
-   "published": "2026-10-13T21:01:31+00:00",
-   "secs": 2972,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-22",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-22T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "f914acd4-f9b5-4960-84d5-3035577130ce",
-   "title": "Born Together",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/26e8c781-b86b-44cd-8503-8cd5b9f101bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=26e8c781-b86b-44cd-8503-8cd5b9f101bc&feed=dloY8UYJ",
-   "length": "24228718",
-   "type": "audio/mpeg",
-   "published": "2026-10-22T07:00:00+00:00",
-   "secs": 1514,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-22",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-22T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
@@ -370,6 +328,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-29T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "63cd51ab-365a-473e-b374-77869bb7ee26",
+   "title": "The AI Rankings Just Got Reshuffled",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128373712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F435359682-44100-2-ea262663c4827.mp3",
+   "length": "26121612",
+   "type": "audio/mpeg",
+   "published": "2026-10-29T19:31:10+00:00",
+   "secs": 1632,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Rankings-Just-Got-Reshuffled-e3rc5gg",
+   "day": "2026-10-30",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-10-30T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "af69f479-f303-41b3-81bf-8f45147ba327",
+   "title": "Vally's View: Rangers' Goaltending Future + Hellebuyck Landing Spots",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/8d52bc87-1661-403b-81f5-a416085e59bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=8d52bc87-1661-403b-81f5-a416085e59bd&feed=4jXBOWgY",
+   "length": "47890308",
+   "type": "audio/mpeg",
+   "published": "2026-10-20T22:00:51+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-30",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-10-30T04:59:00-04:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "d65616f3-a143-4a66-82f0-d474d2874b7d",
+   "title": "Whiteout | Campfire Stories with MrBallen",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/1b571875-8d49-4026-a988-b6060991c391/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=1b571875-8d49-4026-a988-b6060991c391&feed=dloY8UYJ",
+   "length": "32841653",
+   "type": "audio/mpeg",
+   "published": "2026-10-30T07:00:00+00:00",
+   "secs": 2052,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-10-30",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-10-30T04:58:00-04:00"
   }
  ]
 }
