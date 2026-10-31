@@ -23,7 +23,8 @@
    "e8fc5e61-5f35-4a58-bfa6-34d9e1949153",
    "fa95888a-323a-45b3-ade6-0b0b18017c7e",
    "3a903336-ed7e-4103-aed9-e9820b988ab1",
-   "63cd51ab-365a-473e-b374-77869bb7ee26"
+   "63cd51ab-365a-473e-b374-77869bb7ee26",
+   "f59714c2-06c3-4eee-a80f-4d1746c8ddc7"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -50,7 +51,8 @@
    "173764b5-c9c1-448e-83ce-6640c50e61a2",
    "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc",
    "69f40605-3848-499e-b634-e92826839c1b",
-   "af69f479-f303-41b3-81bf-8f45147ba327"
+   "af69f479-f303-41b3-81bf-8f45147ba327",
+   "378a86c3-ba14-4829-b10f-69b23f22bda5"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -74,51 +76,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "8cd35e70-6ecb-408d-b5e5-2a098c7486ac",
-   "title": "The AI vs AI Battle for the Internet",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127912717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-22%2F434765371-44100-2-ba24a88164185.mp3",
-   "length": "27016462",
-   "type": "audio/mpeg",
-   "published": "2026-10-22T20:15:15+00:00",
-   "secs": 1688,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-vs-AI-Battle-for-the-Internet-e3qu3ad",
-   "day": "2026-10-23",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-23T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "d5cf88f2-ca25-4611-bc6b-c53464d2dc5c",
-   "title": "Vally's View: Shesterkin's Injury + the Risks of Reverse VH",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/1b847594-7770-435d-9719-2b96eaa09af7/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=1b847594-7770-435d-9719-2b96eaa09af7&feed=4jXBOWgY",
-   "length": "47801282",
-   "type": "audio/mpeg",
-   "published": "2026-10-13T22:01:13+00:00",
-   "secs": 2987,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-23",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-23T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "a2268db0-d4ef-4db3-8289-267ab7fe7dcd",
-   "title": "Fan Favorite - \"Holiday Fear\"",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/801f9e28-065c-4ff2-b860-f7ecfe7f15e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=801f9e28-065c-4ff2-b860-f7ecfe7f15e4&feed=dloY8UYJ",
-   "length": "38843547",
-   "type": "audio/mpeg",
-   "published": "2026-10-23T07:00:00+00:00",
-   "secs": 2427,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-23",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-23T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "62d1d33d-62be-436b-8d5b-de9330b4b55e",
@@ -373,6 +330,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-10-30T04:58:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "f59714c2-06c3-4eee-a80f-4d1746c8ddc7",
+   "title": "How the Most AI-Pilled Company in the World Works",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128447035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435453145-44100-2-256f1fce3e72d.mp3",
+   "length": "29779590",
+   "type": "audio/mpeg",
+   "published": "2026-10-30T19:05:17+00:00",
+   "secs": 1861,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-the-Most-AI-Pilled-Company-in-the-World-Works-e3red3r",
+   "day": "2026-10-31",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-10-31T05:00:00-04:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "378a86c3-ba14-4829-b10f-69b23f22bda5",
+   "title": "Leafs Hour: What Will This Team Become?",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b965ac3e-68df-4846-950d-a774900d67e5/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=b965ac3e-68df-4846-950d-a774900d67e5&feed=4jXBOWgY",
+   "length": "47912460",
+   "type": "audio/mpeg",
+   "published": "2026-10-21T21:01:50+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-10-31",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-10-31T04:59:00-04:00"
   }
  ]
 }
