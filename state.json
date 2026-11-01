@@ -24,7 +24,8 @@
    "fa95888a-323a-45b3-ade6-0b0b18017c7e",
    "3a903336-ed7e-4103-aed9-e9820b988ab1",
    "63cd51ab-365a-473e-b374-77869bb7ee26",
-   "f59714c2-06c3-4eee-a80f-4d1746c8ddc7"
+   "f59714c2-06c3-4eee-a80f-4d1746c8ddc7",
+   "00437a08-960b-4b65-a03f-5ac3e459e699"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -52,7 +53,8 @@
    "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc",
    "69f40605-3848-499e-b634-e92826839c1b",
    "af69f479-f303-41b3-81bf-8f45147ba327",
-   "378a86c3-ba14-4829-b10f-69b23f22bda5"
+   "378a86c3-ba14-4829-b10f-69b23f22bda5",
+   "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -76,36 +78,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "62d1d33d-62be-436b-8d5b-de9330b4b55e",
-   "title": "The Most Concerning AI Bubble Signals",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/127968273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434838595-44100-2-2b56a37789614.mp3",
-   "length": "27663463",
-   "type": "audio/mpeg",
-   "published": "2026-10-23T18:50:38+00:00",
-   "secs": 1728,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-Most-Concerning-AI-Bubble-Signals-e3qvpih",
-   "day": "2026-10-24",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-24T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "8ecdc4c9-06da-4617-b553-57496a4fb2cb",
-   "title": "Leafs Hour: Time to Make a Move on the Blueline",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/27041d0b-693c-48e2-a1a6-f65c7f1139eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=27041d0b-693c-48e2-a1a6-f65c7f1139eb&feed=4jXBOWgY",
-   "length": "47917475",
-   "type": "audio/mpeg",
-   "published": "2026-10-14T20:59:55+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-24",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-24T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
@@ -360,6 +332,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-10-31T04:59:00-04:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "00437a08-960b-4b65-a03f-5ac3e459e699",
+   "title": "AI Won\u2019t Make Our Minds Useless According to 400 Years of History",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128554822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435584507-44100-2-12cd313a5700b.mp3",
+   "length": "25792678",
+   "type": "audio/mpeg",
+   "published": "2026-11-01T11:52:15+00:00",
+   "secs": 1612,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-Wont-Make-Our-Minds-Useless-According-to-400-Years-of-History-e3rhmc6",
+   "day": "2026-11-01",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-01T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7",
+   "title": "Leafs Hour: Hosting the Red-Hot Rangers",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/681d3eda-4abe-4022-8621-22944db3c891/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=681d3eda-4abe-4022-8621-22944db3c891&feed=4jXBOWgY",
+   "length": "47926670",
+   "type": "audio/mpeg",
+   "published": "2026-10-22T21:00:41+00:00",
+   "secs": 2995,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-01",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-01T04:59:00-05:00"
   }
  ]
 }
