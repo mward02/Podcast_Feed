@@ -25,7 +25,8 @@
    "3a903336-ed7e-4103-aed9-e9820b988ab1",
    "63cd51ab-365a-473e-b374-77869bb7ee26",
    "f59714c2-06c3-4eee-a80f-4d1746c8ddc7",
-   "00437a08-960b-4b65-a03f-5ac3e459e699"
+   "00437a08-960b-4b65-a03f-5ac3e459e699",
+   "eae6e3ba-b137-4dbd-9cf8-6ea872835be8"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -54,7 +55,8 @@
    "69f40605-3848-499e-b634-e92826839c1b",
    "af69f479-f303-41b3-81bf-8f45147ba327",
    "378a86c3-ba14-4829-b10f-69b23f22bda5",
-   "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7"
+   "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7",
+   "e9013780-0a50-4a6d-afad-fd708c9c2683"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -74,40 +76,11 @@
    "a2268db0-d4ef-4db3-8289-267ab7fe7dcd",
    "ab0f1585-cfad-40dd-a852-071a86bd9645",
    "f90b985f-10c5-451b-9625-dd9d3cf98371",
-   "d65616f3-a143-4a66-82f0-d474d2874b7d"
+   "d65616f3-a143-4a66-82f0-d474d2874b7d",
+   "5983708f-c23d-4e0a-a55c-64036a198f52"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "4afc90b0-5b40-4cdc-abcf-a51b9a735ea6",
-   "title": "How I'm Actually Using AI Right Now (Including Claude Duet)",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128042332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-25%2F434934876-44100-2-bf71c322fe7c4.mp3",
-   "length": "31171812",
-   "type": "audio/mpeg",
-   "published": "2026-10-25T11:36:36+00:00",
-   "secs": 1948,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-Im-Actually-Using-AI-Right-Now-Including-Claude-Duet-e3r21ss",
-   "day": "2026-10-25",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-25T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "a274b599-e5a3-490f-ba9c-c1c205239cd5",
-   "title": "Leafs Hour: Lineup Shuffle Against the Sabres",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b9f03c29-d9c3-415e-8bdd-906b6983146f/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=b9f03c29-d9c3-415e-8bdd-906b6983146f&feed=4jXBOWgY",
-   "length": "47924580",
-   "type": "audio/mpeg",
-   "published": "2026-10-15T21:01:06+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-25",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-25T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "7145131c-3627-480a-b971-01a5203fe41f",
@@ -362,6 +335,51 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-01T04:59:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "eae6e3ba-b137-4dbd-9cf8-6ea872835be8",
+   "title": "How to Deslopify Your AI",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128609556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F435656622-44100-2-b076fe7f9adb1.mp3",
+   "length": "40993017",
+   "type": "audio/mpeg",
+   "published": "2026-11-02T17:00:00+00:00",
+   "secs": 2562,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Deslopify-Your-AI-e3rjbqk",
+   "day": "2026-11-02",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-02T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "e9013780-0a50-4a6d-afad-fd708c9c2683",
+   "title": "Leafs Hour: Has the Passion Returned?",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/1b502197-1785-4201-b429-a872017c6aba/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=1b502197-1785-4201-b429-a872017c6aba&feed=4jXBOWgY",
+   "length": "47807970",
+   "type": "audio/mpeg",
+   "published": "2026-10-23T21:00:57+00:00",
+   "secs": 2987,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-02",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-02T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "5983708f-c23d-4e0a-a55c-64036a198f52",
+   "title": "Rumor Has It (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/fde9f0f4-2cb5-4601-ac36-2c8d340da366/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=fde9f0f4-2cb5-4601-ac36-2c8d340da366&feed=dloY8UYJ",
+   "length": "28676316",
+   "type": "audio/mpeg",
+   "published": "2026-11-02T08:00:00+00:00",
+   "secs": 1792,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-02",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-02T04:58:00-05:00"
   }
  ]
 }
