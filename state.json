@@ -56,7 +56,8 @@
    "af69f479-f303-41b3-81bf-8f45147ba327",
    "378a86c3-ba14-4829-b10f-69b23f22bda5",
    "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7",
-   "e9013780-0a50-4a6d-afad-fd708c9c2683"
+   "e9013780-0a50-4a6d-afad-fd708c9c2683",
+   "44d1abf2-2cbc-48a6-8045-382533a7c7db"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -81,51 +82,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "7145131c-3627-480a-b971-01a5203fe41f",
-   "title": "Introducing How We Got Here -- NLW's new podcast",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128111532/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F435024080-44100-2-8b9418d4e908.mp3",
-   "length": "6047032",
-   "type": "audio/mpeg",
-   "published": "2026-10-26T14:22:15+00:00",
-   "secs": 377,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Introducing-How-We-Got-Here----NLWs-new-podcast-e3r45fc",
-   "day": "2026-10-26",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-26T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "9505a39f-cadc-4b24-8a1c-0cfbbb201871",
-   "title": "Leafs Hour: An Unforced Benching",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/7f7cb937-401e-4401-951d-7adabf666e8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=7f7cb937-401e-4401-951d-7adabf666e8c&feed=4jXBOWgY",
-   "length": "47924162",
-   "type": "audio/mpeg",
-   "published": "2026-10-16T20:59:36+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-26",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-26T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "ab0f1585-cfad-40dd-a852-071a86bd9645",
-   "title": "Killer Without a Face (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/00a21722-947b-49be-8f89-ff7d7a278ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=00a21722-947b-49be-8f89-ff7d7a278ad9&feed=dloY8UYJ",
-   "length": "36793501",
-   "type": "audio/mpeg",
-   "published": "2026-10-26T07:00:00+00:00",
-   "secs": 2299,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-26",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-26T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "e8fc5e61-5f35-4a58-bfa6-34d9e1949153",
@@ -380,6 +336,21 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-02T04:58:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "44d1abf2-2cbc-48a6-8045-382533a7c7db",
+   "title": "Leafs Hour: A Seven-Goal Statement in Edmonton",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/c91f9cee-e4f4-4dd0-a05f-744c4d220536/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=c91f9cee-e4f4-4dd0-a05f-744c4d220536&feed=4jXBOWgY",
+   "length": "47920819",
+   "type": "audio/mpeg",
+   "published": "2026-10-26T21:02:18+00:00",
+   "secs": 2995,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-03",
+   "slot": 1,
+   "of": 1,
+   "pubdate": "2026-11-03T05:00:00-05:00"
   }
  ]
 }
