@@ -27,7 +27,8 @@
    "f59714c2-06c3-4eee-a80f-4d1746c8ddc7",
    "00437a08-960b-4b65-a03f-5ac3e459e699",
    "eae6e3ba-b137-4dbd-9cf8-6ea872835be8",
-   "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697"
+   "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697",
+   "65893134-1551-4347-9259-9ba4f565fe9a"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -59,7 +60,8 @@
    "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7",
    "e9013780-0a50-4a6d-afad-fd708c9c2683",
    "44d1abf2-2cbc-48a6-8045-382533a7c7db",
-   "a642ce73-ceec-494a-8cef-b6374c1ea085"
+   "a642ce73-ceec-494a-8cef-b6374c1ea085",
+   "84153fe9-ec9f-4cce-9389-b5c52069952c"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -81,40 +83,11 @@
    "f90b985f-10c5-451b-9625-dd9d3cf98371",
    "d65616f3-a143-4a66-82f0-d474d2874b7d",
    "5983708f-c23d-4e0a-a55c-64036a198f52",
-   "b737d8ee-1c40-4d6d-82f3-f8cb13935611"
+   "b737d8ee-1c40-4d6d-82f3-f8cb13935611",
+   "7c481829-88de-4aae-b023-57d798b7fc36"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "fa95888a-323a-45b3-ade6-0b0b18017c7e",
-   "title": "What Anthropic\u2019s IPO Filing Reveals",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128215973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-27%2F435159882-44100-2-9781de5240b11.mp3",
-   "length": "27643401",
-   "type": "audio/mpeg",
-   "published": "2026-10-27T21:10:01+00:00",
-   "secs": 1727,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/What-Anthropics-IPO-Filing-Reveals-e3r7bf5",
-   "day": "2026-10-28",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-28T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "23d7d9bc-37b2-4cce-8c55-9d71241e8bfc",
-   "title": "Hellebuyck's Suspension + Three No. 1 Picks Face-Off in Toronto",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/06e5c353-586a-4626-a362-0efc97747b02/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=06e5c353-586a-4626-a362-0efc97747b02&feed=4jXBOWgY",
-   "length": "47919147",
-   "type": "audio/mpeg",
-   "published": "2026-10-19T22:00:21+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-28",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-28T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "3a903336-ed7e-4103-aed9-e9820b988ab1",
@@ -369,6 +342,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-04T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "65893134-1551-4347-9259-9ba4f565fe9a",
+   "title": "How the Midterm Results Change AI",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128791666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435892590-44100-2-69b4a6a796c84.mp3",
+   "length": "23704554",
+   "type": "audio/mpeg",
+   "published": "2026-11-04T19:57:20+00:00",
+   "secs": 1481,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-the-Midterm-Results-Change-AI-e3rotli",
+   "day": "2026-11-05",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-05T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "84153fe9-ec9f-4cce-9389-b5c52069952c",
+   "title": "Leafs Hour: Come-Down in Calgary",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e12af005-ee54-41be-8598-033c60e11636/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e12af005-ee54-41be-8598-033c60e11636&feed=4jXBOWgY",
+   "length": "47822598",
+   "type": "audio/mpeg",
+   "published": "2026-10-27T20:59:59+00:00",
+   "secs": 2988,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-05",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-05T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "7c481829-88de-4aae-b023-57d798b7fc36",
+   "title": "Still Here",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/5aebc0a7-4ed8-4788-b9c0-c79c0cae0372/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=5aebc0a7-4ed8-4788-b9c0-c79c0cae0372&feed=dloY8UYJ",
+   "length": "25859227",
+   "type": "audio/mpeg",
+   "published": "2026-11-05T08:00:00+00:00",
+   "secs": 1616,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-05",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-05T04:58:00-05:00"
   }
  ]
 }
