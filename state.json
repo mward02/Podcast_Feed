@@ -28,7 +28,8 @@
    "00437a08-960b-4b65-a03f-5ac3e459e699",
    "eae6e3ba-b137-4dbd-9cf8-6ea872835be8",
    "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697",
-   "65893134-1551-4347-9259-9ba4f565fe9a"
+   "65893134-1551-4347-9259-9ba4f565fe9a",
+   "3b3f73dc-3de7-428c-82d4-d0b90472142b"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -61,7 +62,8 @@
    "e9013780-0a50-4a6d-afad-fd708c9c2683",
    "44d1abf2-2cbc-48a6-8045-382533a7c7db",
    "a642ce73-ceec-494a-8cef-b6374c1ea085",
-   "84153fe9-ec9f-4cce-9389-b5c52069952c"
+   "84153fe9-ec9f-4cce-9389-b5c52069952c",
+   "c0d71c35-8ab9-4fe2-9be8-a14013b90738"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -84,55 +86,11 @@
    "d65616f3-a143-4a66-82f0-d474d2874b7d",
    "5983708f-c23d-4e0a-a55c-64036a198f52",
    "b737d8ee-1c40-4d6d-82f3-f8cb13935611",
-   "7c481829-88de-4aae-b023-57d798b7fc36"
+   "7c481829-88de-4aae-b023-57d798b7fc36",
+   "c2411cb8-eec9-4726-96ba-514066e263fc"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "3a903336-ed7e-4103-aed9-e9820b988ab1",
-   "title": "AI Can Now Create Worlds You Can Change in Real Time",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128303802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-28%2F435269554-44100-2-27523823ae90a.mp3",
-   "length": "28096887",
-   "type": "audio/mpeg",
-   "published": "2026-10-28T20:43:55+00:00",
-   "secs": 1756,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-Can-Now-Create-Worlds-You-Can-Change-in-Real-Time-e3ra17q",
-   "day": "2026-10-29",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-29T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "69f40605-3848-499e-b634-e92826839c1b",
-   "title": "Leafs Hour: Marchenko's Columbus Return",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/2a9aeb72-ddd1-4b6a-a368-90ec052ae758/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=2a9aeb72-ddd1-4b6a-a368-90ec052ae758&feed=4jXBOWgY",
-   "length": "47877767",
-   "type": "audio/mpeg",
-   "published": "2026-10-20T21:00:48+00:00",
-   "secs": 2992,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-29",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-29T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "f90b985f-10c5-451b-9625-dd9d3cf98371",
-   "title": "Spectral",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/6201981f-46e0-444e-be1f-b31ee3defef0/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=6201981f-46e0-444e-be1f-b31ee3defef0&feed=dloY8UYJ",
-   "length": "30030460",
-   "type": "audio/mpeg",
-   "published": "2026-10-29T07:00:00+00:00",
-   "secs": 1876,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-29",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-29T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "63cd51ab-365a-473e-b374-77869bb7ee26",
@@ -387,6 +345,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-05T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "3b3f73dc-3de7-428c-82d4-d0b90472142b",
+   "title": "Why a Data Center Slowdown Benefits Big Tech",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128874509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435997667-44100-2-573632689c4ca8.mp3",
+   "length": "24908694",
+   "type": "audio/mpeg",
+   "published": "2026-11-05T22:32:18+00:00",
+   "secs": 1556,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-a-Data-Center-Slowdown-Benefits-Big-Tech-e3rreid",
+   "day": "2026-11-06",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-06T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "c0d71c35-8ab9-4fe2-9be8-a14013b90738",
+   "title": "Vally's View: Eyes on Hellebuyck's Debut",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/4e29104d-abbf-48e9-be56-dc7be8f75529/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=4e29104d-abbf-48e9-be56-dc7be8f75529&feed=4jXBOWgY",
+   "length": "47922491",
+   "type": "audio/mpeg",
+   "published": "2026-10-27T21:59:37+00:00",
+   "secs": 2995,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-06",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-06T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "c2411cb8-eec9-4726-96ba-514066e263fc",
+   "title": "Guided by the Dead (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/c550ec06-c4a2-4e9b-a9f7-a52b5ef9b802/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=c550ec06-c4a2-4e9b-a9f7-a52b5ef9b802&feed=dloY8UYJ",
+   "length": "29802254",
+   "type": "audio/mpeg",
+   "published": "2026-11-06T08:00:00+00:00",
+   "secs": 1862,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-06",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-06T04:58:00-05:00"
   }
  ]
 }
