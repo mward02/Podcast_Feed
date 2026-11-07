@@ -29,7 +29,8 @@
    "eae6e3ba-b137-4dbd-9cf8-6ea872835be8",
    "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697",
    "65893134-1551-4347-9259-9ba4f565fe9a",
-   "3b3f73dc-3de7-428c-82d4-d0b90472142b"
+   "3b3f73dc-3de7-428c-82d4-d0b90472142b",
+   "fd1870d1-685a-4241-876b-42908e014cc2"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -63,7 +64,8 @@
    "44d1abf2-2cbc-48a6-8045-382533a7c7db",
    "a642ce73-ceec-494a-8cef-b6374c1ea085",
    "84153fe9-ec9f-4cce-9389-b5c52069952c",
-   "c0d71c35-8ab9-4fe2-9be8-a14013b90738"
+   "c0d71c35-8ab9-4fe2-9be8-a14013b90738",
+   "b004dbdd-4651-4a35-9c83-d43723de03ce"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -91,51 +93,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "63cd51ab-365a-473e-b374-77869bb7ee26",
-   "title": "The AI Rankings Just Got Reshuffled",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128373712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F435359682-44100-2-ea262663c4827.mp3",
-   "length": "26121612",
-   "type": "audio/mpeg",
-   "published": "2026-10-29T19:31:10+00:00",
-   "secs": 1632,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-AI-Rankings-Just-Got-Reshuffled-e3rc5gg",
-   "day": "2026-10-30",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-10-30T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "af69f479-f303-41b3-81bf-8f45147ba327",
-   "title": "Vally's View: Rangers' Goaltending Future + Hellebuyck Landing Spots",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/8d52bc87-1661-403b-81f5-a416085e59bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=8d52bc87-1661-403b-81f5-a416085e59bd&feed=4jXBOWgY",
-   "length": "47890308",
-   "type": "audio/mpeg",
-   "published": "2026-10-20T22:00:51+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-30",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-10-30T04:59:00-04:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "d65616f3-a143-4a66-82f0-d474d2874b7d",
-   "title": "Whiteout | Campfire Stories with MrBallen",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/1b571875-8d49-4026-a988-b6060991c391/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=1b571875-8d49-4026-a988-b6060991c391&feed=dloY8UYJ",
-   "length": "32841653",
-   "type": "audio/mpeg",
-   "published": "2026-10-30T07:00:00+00:00",
-   "secs": 2052,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-10-30",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-10-30T04:58:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "f59714c2-06c3-4eee-a80f-4d1746c8ddc7",
@@ -390,6 +347,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-06T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "fd1870d1-685a-4241-876b-42908e014cc2",
+   "title": "Companies Are Spending 5x More on AI Now",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/128940058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436080818-44100-2-1aad56ffe7cd3.mp3",
+   "length": "29607391",
+   "type": "audio/mpeg",
+   "published": "2026-11-07T00:24:27+00:00",
+   "secs": 1850,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Companies-Are-Spending-5x-More-on-AI-Now-e3rteiq",
+   "day": "2026-11-07",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-07T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "b004dbdd-4651-4a35-9c83-d43723de03ce",
+   "title": "Leafs Hour: McKenna Moves Up",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e9e2de65-bd0e-451f-8b10-9008f9ff34e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e9e2de65-bd0e-451f-8b10-9008f9ff34e4&feed=4jXBOWgY",
+   "length": "47747784",
+   "type": "audio/mpeg",
+   "published": "2026-10-28T21:00:01+00:00",
+   "secs": 2984,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-07",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-07T04:59:00-05:00"
   }
  ]
 }
