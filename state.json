@@ -30,7 +30,8 @@
    "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697",
    "65893134-1551-4347-9259-9ba4f565fe9a",
    "3b3f73dc-3de7-428c-82d4-d0b90472142b",
-   "fd1870d1-685a-4241-876b-42908e014cc2"
+   "fd1870d1-685a-4241-876b-42908e014cc2",
+   "0bd05f6f-2ba2-406a-b85d-68765623b1a8"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -65,7 +66,8 @@
    "a642ce73-ceec-494a-8cef-b6374c1ea085",
    "84153fe9-ec9f-4cce-9389-b5c52069952c",
    "c0d71c35-8ab9-4fe2-9be8-a14013b90738",
-   "b004dbdd-4651-4a35-9c83-d43723de03ce"
+   "b004dbdd-4651-4a35-9c83-d43723de03ce",
+   "1ecbf8c9-fb10-4951-b786-d31455f8a6f7"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -93,36 +95,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "f59714c2-06c3-4eee-a80f-4d1746c8ddc7",
-   "title": "How the Most AI-Pilled Company in the World Works",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128447035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435453145-44100-2-256f1fce3e72d.mp3",
-   "length": "29779590",
-   "type": "audio/mpeg",
-   "published": "2026-10-30T19:05:17+00:00",
-   "secs": 1861,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-the-Most-AI-Pilled-Company-in-the-World-Works-e3red3r",
-   "day": "2026-10-31",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-10-31T05:00:00-04:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "378a86c3-ba14-4829-b10f-69b23f22bda5",
-   "title": "Leafs Hour: What Will This Team Become?",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b965ac3e-68df-4846-950d-a774900d67e5/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=b965ac3e-68df-4846-950d-a774900d67e5&feed=4jXBOWgY",
-   "length": "47912460",
-   "type": "audio/mpeg",
-   "published": "2026-10-21T21:01:50+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-10-31",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-10-31T04:59:00-04:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "00437a08-960b-4b65-a03f-5ac3e459e699",
@@ -377,6 +349,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-07T04:59:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "0bd05f6f-2ba2-406a-b85d-68765623b1a8",
+   "title": "Agentic Video Is Real and Here\u2019s What You Should Try",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129045509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F436212145-44100-2-565cf3ede86b88.mp3",
+   "length": "29740720",
+   "type": "audio/mpeg",
+   "published": "2026-11-08T12:05:09+00:00",
+   "secs": 1858,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Video-Is-Real-and-Heres-What-You-Should-Try-e3s0li5",
+   "day": "2026-11-08",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-08T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "1ecbf8c9-fb10-4951-b786-d31455f8a6f7",
+   "title": "Leafs Hour: Hitting the Panic Button on Bobrovsky?",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/3e39dede-74b0-4869-916f-e35fe88b4f75/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=3e39dede-74b0-4869-916f-e35fe88b4f75&feed=4jXBOWgY",
+   "length": "47907862",
+   "type": "audio/mpeg",
+   "published": "2026-10-29T21:00:05+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-08",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-08T04:59:00-05:00"
   }
  ]
 }

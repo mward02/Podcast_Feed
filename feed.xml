@@ -7,7 +7,23 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sat, 07 Nov 2026 10:34:54 -0500</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 10:52:47 -0500</lastBuildDate>
+<item>
+<title>Sun Nov 8 · 1/2 · AI Daily Brief: Agentic Video Is Real and Here’s What You Should Try</title>
+<guid isPermaLink="false">drive-2026-11-08-0bd05f6f-2ba2-406a-b85d-68765623b1a8</guid>
+<pubDate>Sun, 08 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129045509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-8%2F436212145-44100-2-565cf3ede86b88.mp3" length="29740720" type="audio/mpeg"/>
+<itunes:duration>1858</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Agentic-Video-Is-Real-and-Heres-What-You-Should-Try-e3s0li5</link>
+</item>
+<item>
+<title>Sun Nov 8 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: Hitting the Panic Button on Bobrovsky?</title>
+<guid isPermaLink="false">drive-2026-11-08-1ecbf8c9-fb10-4951-b786-d31455f8a6f7</guid>
+<pubDate>Sun, 08 Nov 2026 04:59:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/3e39dede-74b0-4869-916f-e35fe88b4f75/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=3e39dede-74b0-4869-916f-e35fe88b4f75&amp;feed=4jXBOWgY" length="47907862" type="audio/mpeg"/>
+<itunes:duration>2994</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Sat Nov 7 · 1/2 · AI Daily Brief: Companies Are Spending 5x More on AI Now</title>
 <guid isPermaLink="false">drive-2026-11-07-fd1870d1-685a-4241-876b-42908e014cc2</guid>
@@ -142,22 +158,6 @@
 <pubDate>Sun, 01 Nov 2026 04:59:00 -0500</pubDate>
 <enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/681d3eda-4abe-4022-8621-22944db3c891/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=681d3eda-4abe-4022-8621-22944db3c891&amp;feed=4jXBOWgY" length="47926670" type="audio/mpeg"/>
 <itunes:duration>2995</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Sat Oct 31 · 1/2 · AI Daily Brief: How the Most AI-Pilled Company in the World Works</title>
-<guid isPermaLink="false">drive-2026-10-31-f59714c2-06c3-4eee-a80f-4d1746c8ddc7</guid>
-<pubDate>Sat, 31 Oct 2026 05:00:00 -0400</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/128447035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435453145-44100-2-256f1fce3e72d.mp3" length="29779590" type="audio/mpeg"/>
-<itunes:duration>1861</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-the-Most-AI-Pilled-Company-in-the-World-Works-e3red3r</link>
-</item>
-<item>
-<title>Sat Oct 31 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: What Will This Team Become?</title>
-<guid isPermaLink="false">drive-2026-10-31-378a86c3-ba14-4829-b10f-69b23f22bda5</guid>
-<pubDate>Sat, 31 Oct 2026 04:59:00 -0400</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b965ac3e-68df-4846-950d-a774900d67e5/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=b965ac3e-68df-4846-950d-a774900d67e5&amp;feed=4jXBOWgY" length="47912460" type="audio/mpeg"/>
-<itunes:duration>2994</itunes:duration>
 <link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
 </item>
 </channel>
