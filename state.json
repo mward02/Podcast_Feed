@@ -31,7 +31,8 @@
    "65893134-1551-4347-9259-9ba4f565fe9a",
    "3b3f73dc-3de7-428c-82d4-d0b90472142b",
    "fd1870d1-685a-4241-876b-42908e014cc2",
-   "0bd05f6f-2ba2-406a-b85d-68765623b1a8"
+   "0bd05f6f-2ba2-406a-b85d-68765623b1a8",
+   "67a0cc4c-bc54-42c5-9d75-3c5e3d230941"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -67,7 +68,8 @@
    "84153fe9-ec9f-4cce-9389-b5c52069952c",
    "c0d71c35-8ab9-4fe2-9be8-a14013b90738",
    "b004dbdd-4651-4a35-9c83-d43723de03ce",
-   "1ecbf8c9-fb10-4951-b786-d31455f8a6f7"
+   "1ecbf8c9-fb10-4951-b786-d31455f8a6f7",
+   "0d3152af-255e-4b73-a390-00a20af360ba"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -91,40 +93,11 @@
    "5983708f-c23d-4e0a-a55c-64036a198f52",
    "b737d8ee-1c40-4d6d-82f3-f8cb13935611",
    "7c481829-88de-4aae-b023-57d798b7fc36",
-   "c2411cb8-eec9-4726-96ba-514066e263fc"
+   "c2411cb8-eec9-4726-96ba-514066e263fc",
+   "340c5803-6104-4af5-80d4-e718e61e8ce7"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "00437a08-960b-4b65-a03f-5ac3e459e699",
-   "title": "AI Won\u2019t Make Our Minds Useless According to 400 Years of History",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128554822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-1%2F435584507-44100-2-12cd313a5700b.mp3",
-   "length": "25792678",
-   "type": "audio/mpeg",
-   "published": "2026-11-01T11:52:15+00:00",
-   "secs": 1612,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-Wont-Make-Our-Minds-Useless-According-to-400-Years-of-History-e3rhmc6",
-   "day": "2026-11-01",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-11-01T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "85ac7022-d2cc-4ab9-ac6e-aae8abb585f7",
-   "title": "Leafs Hour: Hosting the Red-Hot Rangers",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/681d3eda-4abe-4022-8621-22944db3c891/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=681d3eda-4abe-4022-8621-22944db3c891&feed=4jXBOWgY",
-   "length": "47926670",
-   "type": "audio/mpeg",
-   "published": "2026-10-22T21:00:41+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-01",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-11-01T04:59:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "eae6e3ba-b137-4dbd-9cf8-6ea872835be8",
@@ -379,6 +352,51 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-08T04:59:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "67a0cc4c-bc54-42c5-9d75-3c5e3d230941",
+   "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129142850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F436336137-44100-2-f1c89ec6f8a918.mp3",
+   "length": "25618807",
+   "type": "audio/mpeg",
+   "published": "2026-11-09T19:34:01+00:00",
+   "secs": 1601,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Nvidia-CEO-Admits-Affair-With-Suspected-Chinese-Spy-e3s3kk2",
+   "day": "2026-11-09",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-09T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "0d3152af-255e-4b73-a390-00a20af360ba",
+   "title": "Leafs Hour: Tanev Returns For Canucks Clash",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/20b9c569-38ce-488f-961f-cba5a26f5d34/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=20b9c569-38ce-488f-961f-cba5a26f5d34&feed=4jXBOWgY",
+   "length": "47917475",
+   "type": "audio/mpeg",
+   "published": "2026-10-30T21:02:29+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-09",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-09T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "340c5803-6104-4af5-80d4-e718e61e8ce7",
+   "title": "On the Line (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/8d0c1f91-0f9c-4854-9dfa-c22a4ec9a125/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=8d0c1f91-0f9c-4854-9dfa-c22a4ec9a125&feed=dloY8UYJ",
+   "length": "36534785",
+   "type": "audio/mpeg",
+   "published": "2026-11-09T08:00:00+00:00",
+   "secs": 2283,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-09",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-09T04:58:00-05:00"
   }
  ]
 }
