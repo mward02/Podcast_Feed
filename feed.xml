@@ -7,7 +7,15 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Mon, 09 Nov 2026 14:40:54 -0500</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 11:54:50 -0500</lastBuildDate>
+<item>
+<title>Tue Nov 10 · 1/1 · Real Kyper &amp; Bourne: Leafs Hour: Goalie Dilemma + Kucherov in Toronto?</title>
+<guid isPermaLink="false">drive-2026-11-10-de401e8d-ab89-489d-a1cb-57afd7625fa2</guid>
+<pubDate>Tue, 10 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/25dbacaa-78a5-4777-9660-59dc02f48e3d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=25dbacaa-78a5-4777-9660-59dc02f48e3d&amp;feed=4jXBOWgY" length="47896159" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Mon Nov 9 · 1/3 · AI Daily Brief: Nvidia CEO Admits Affair With Suspected Chinese Spy</title>
 <guid isPermaLink="false">drive-2026-11-09-67a0cc4c-bc54-42c5-9d75-3c5e3d230941</guid>
@@ -143,30 +151,6 @@
 <enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/c91f9cee-e4f4-4dd0-a05f-744c4d220536/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=c91f9cee-e4f4-4dd0-a05f-744c4d220536&amp;feed=4jXBOWgY" length="47920819" type="audio/mpeg"/>
 <itunes:duration>2995</itunes:duration>
 <link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Mon Nov 2 · 1/3 · AI Daily Brief: How to Deslopify Your AI</title>
-<guid isPermaLink="false">drive-2026-11-02-eae6e3ba-b137-4dbd-9cf8-6ea872835be8</guid>
-<pubDate>Mon, 02 Nov 2026 05:00:00 -0500</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/128609556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2F435656622-44100-2-b076fe7f9adb1.mp3" length="40993017" type="audio/mpeg"/>
-<itunes:duration>2562</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Deslopify-Your-AI-e3rjbqk</link>
-</item>
-<item>
-<title>Mon Nov 2 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Has the Passion Returned?</title>
-<guid isPermaLink="false">drive-2026-11-02-e9013780-0a50-4a6d-afad-fd708c9c2683</guid>
-<pubDate>Mon, 02 Nov 2026 04:59:00 -0500</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/1b502197-1785-4201-b429-a872017c6aba/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=1b502197-1785-4201-b429-a872017c6aba&amp;feed=4jXBOWgY" length="47807970" type="audio/mpeg"/>
-<itunes:duration>2987</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Mon Nov 2 · 3/3 · MrBallen: Rumor Has It (PODCAST EXCLUSIVE EPISODE)</title>
-<guid isPermaLink="false">drive-2026-11-02-5983708f-c23d-4e0a-a55c-64036a198f52</guid>
-<pubDate>Mon, 02 Nov 2026 04:58:00 -0500</pubDate>
-<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/fde9f0f4-2cb5-4601-ac36-2c8d340da366/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=fde9f0f4-2cb5-4601-ac36-2c8d340da366&amp;feed=dloY8UYJ" length="28676316" type="audio/mpeg"/>
-<itunes:duration>1792</itunes:duration>
-<link>https://ballenstudios.com/</link>
 </item>
 </channel>
 </rss>
