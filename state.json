@@ -32,7 +32,8 @@
    "3b3f73dc-3de7-428c-82d4-d0b90472142b",
    "fd1870d1-685a-4241-876b-42908e014cc2",
    "0bd05f6f-2ba2-406a-b85d-68765623b1a8",
-   "67a0cc4c-bc54-42c5-9d75-3c5e3d230941"
+   "67a0cc4c-bc54-42c5-9d75-3c5e3d230941",
+   "3da03853-0d88-4880-aba7-02649d39d200"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -70,7 +71,8 @@
    "b004dbdd-4651-4a35-9c83-d43723de03ce",
    "1ecbf8c9-fb10-4951-b786-d31455f8a6f7",
    "0d3152af-255e-4b73-a390-00a20af360ba",
-   "de401e8d-ab89-489d-a1cb-57afd7625fa2"
+   "de401e8d-ab89-489d-a1cb-57afd7625fa2",
+   "870b3f3b-2ebd-4b95-909c-273895721ddf"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -95,25 +97,11 @@
    "b737d8ee-1c40-4d6d-82f3-f8cb13935611",
    "7c481829-88de-4aae-b023-57d798b7fc36",
    "c2411cb8-eec9-4726-96ba-514066e263fc",
-   "340c5803-6104-4af5-80d4-e718e61e8ce7"
+   "340c5803-6104-4af5-80d4-e718e61e8ce7",
+   "1b30e4fd-9671-4e9a-853f-9e10b3147afe"
   ]
  },
  "items": [
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "44d1abf2-2cbc-48a6-8045-382533a7c7db",
-   "title": "Leafs Hour: A Seven-Goal Statement in Edmonton",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/c91f9cee-e4f4-4dd0-a05f-744c4d220536/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=c91f9cee-e4f4-4dd0-a05f-744c4d220536&feed=4jXBOWgY",
-   "length": "47920819",
-   "type": "audio/mpeg",
-   "published": "2026-10-26T21:02:18+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-03",
-   "slot": 1,
-   "of": 1,
-   "pubdate": "2026-11-03T05:00:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697",
@@ -368,6 +356,51 @@
    "slot": 1,
    "of": 1,
    "pubdate": "2026-11-10T05:00:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "3da03853-0d88-4880-aba7-02649d39d200",
+   "title": "Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Yet?",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129220537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436438429-44100-2-c6f55ce15027c.mp3",
+   "length": "28942418",
+   "type": "audio/mpeg",
+   "published": "2026-11-10T21:38:24+00:00",
+   "secs": 1808,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Fable-5-2-Is-the-Best-AI-Ever--So-Why-Am-I-Not-Switching-Yet-e3s60fp",
+   "day": "2026-11-11",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-11T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "870b3f3b-2ebd-4b95-909c-273895721ddf",
+   "title": "Will Tampa Bay Give Into Nikita Kucherov's Trade Request?",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/12946429-3265-46ce-88f5-7fd4e993bda9/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=12946429-3265-46ce-88f5-7fd4e993bda9&feed=4jXBOWgY",
+   "length": "47817583",
+   "type": "audio/mpeg",
+   "published": "2026-11-02T23:01:15+00:00",
+   "secs": 2988,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-11",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-11T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "1b30e4fd-9671-4e9a-853f-9e10b3147afe",
+   "title": "Prep for Disaster (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/efe31161-19b5-4123-9235-47b55d210102/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=efe31161-19b5-4123-9235-47b55d210102&feed=dloY8UYJ",
+   "length": "29373010",
+   "type": "audio/mpeg",
+   "published": "2026-11-11T08:00:00+00:00",
+   "secs": 1835,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-11",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-11T04:58:00-05:00"
   }
  ]
 }
