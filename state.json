@@ -33,7 +33,8 @@
    "fd1870d1-685a-4241-876b-42908e014cc2",
    "0bd05f6f-2ba2-406a-b85d-68765623b1a8",
    "67a0cc4c-bc54-42c5-9d75-3c5e3d230941",
-   "3da03853-0d88-4880-aba7-02649d39d200"
+   "3da03853-0d88-4880-aba7-02649d39d200",
+   "93f2a2e6-07c8-4567-8263-f6139f34436b"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -72,7 +73,8 @@
    "1ecbf8c9-fb10-4951-b786-d31455f8a6f7",
    "0d3152af-255e-4b73-a390-00a20af360ba",
    "de401e8d-ab89-489d-a1cb-57afd7625fa2",
-   "870b3f3b-2ebd-4b95-909c-273895721ddf"
+   "870b3f3b-2ebd-4b95-909c-273895721ddf",
+   "fadac20d-3388-41d0-b694-a1a415638a8b"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -98,55 +100,11 @@
    "7c481829-88de-4aae-b023-57d798b7fc36",
    "c2411cb8-eec9-4726-96ba-514066e263fc",
    "340c5803-6104-4af5-80d4-e718e61e8ce7",
-   "1b30e4fd-9671-4e9a-853f-9e10b3147afe"
+   "1b30e4fd-9671-4e9a-853f-9e10b3147afe",
+   "da985fe1-ddf2-4826-b492-866f94e91c7a"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "a63ffb92-6fd8-4f53-9a1d-2704cfb1c697",
-   "title": "AI Lurches Toward Recursive Self-Improvement",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128710740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435791266-44100-2-59c5fdb59f162.mp3",
-   "length": "25857043",
-   "type": "audio/mpeg",
-   "published": "2026-11-03T20:15:43+00:00",
-   "secs": 1616,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-Lurches-Toward-Recursive-Self-Improvement-e3rmekk",
-   "day": "2026-11-04",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-04T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "a642ce73-ceec-494a-8cef-b6374c1ea085",
-   "title": "Trade Request Resolutions with Jason Demers",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/99802043-0c54-4447-b812-cb50ee6f5357/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=99802043-0c54-4447-b812-cb50ee6f5357&feed=4jXBOWgY",
-   "length": "47691777",
-   "type": "audio/mpeg",
-   "published": "2026-10-26T22:01:05+00:00",
-   "secs": 2980,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-04",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-04T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "b737d8ee-1c40-4d6d-82f3-f8cb13935611",
-   "title": "In the Blink of an Eye (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/35d316c5-279b-4049-83e7-43bc939e9a01/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=35d316c5-279b-4049-83e7-43bc939e9a01&feed=dloY8UYJ",
-   "length": "28321843",
-   "type": "audio/mpeg",
-   "published": "2026-11-04T08:00:00+00:00",
-   "secs": 1770,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-04",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-04T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "65893134-1551-4347-9259-9ba4f565fe9a",
@@ -401,6 +359,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-11T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "93f2a2e6-07c8-4567-8263-f6139f34436b",
+   "title": "Wall Street Has No Idea What Anthropic Is Worth",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129282723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436521951-44100-2-914a4d06e596e.mp3",
+   "length": "23774353",
+   "type": "audio/mpeg",
+   "published": "2026-11-11T21:16:03+00:00",
+   "secs": 1485,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Wall-Street-Has-No-Idea-What-Anthropic-Is-Worth-e3s7t73",
+   "day": "2026-11-12",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-12T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "fadac20d-3388-41d0-b694-a1a415638a8b",
+   "title": "Leafs Hour: Mammoth Matchup Opens the Homestand",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/127d2b53-1595-4e1b-bf59-c9f14c79a91e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=127d2b53-1595-4e1b-bf59-c9f14c79a91e&feed=4jXBOWgY",
+   "length": "47948404",
+   "type": "audio/mpeg",
+   "published": "2026-11-03T21:59:48+00:00",
+   "secs": 2996,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-12",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-12T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "da985fe1-ddf2-4826-b492-866f94e91c7a",
+   "title": "Occupational Hazard",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/71444194-99de-48b3-b786-a264867e8b44/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=71444194-99de-48b3-b786-a264867e8b44&feed=dloY8UYJ",
+   "length": "25798155",
+   "type": "audio/mpeg",
+   "published": "2026-11-12T08:00:00+00:00",
+   "secs": 1612,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-12",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-12T04:58:00-05:00"
   }
  ]
 }
