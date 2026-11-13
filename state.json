@@ -34,7 +34,8 @@
    "0bd05f6f-2ba2-406a-b85d-68765623b1a8",
    "67a0cc4c-bc54-42c5-9d75-3c5e3d230941",
    "3da03853-0d88-4880-aba7-02649d39d200",
-   "93f2a2e6-07c8-4567-8263-f6139f34436b"
+   "93f2a2e6-07c8-4567-8263-f6139f34436b",
+   "96eb9c00-c30b-4538-9342-bb49cb3f239f"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -74,7 +75,8 @@
    "0d3152af-255e-4b73-a390-00a20af360ba",
    "de401e8d-ab89-489d-a1cb-57afd7625fa2",
    "870b3f3b-2ebd-4b95-909c-273895721ddf",
-   "fadac20d-3388-41d0-b694-a1a415638a8b"
+   "fadac20d-3388-41d0-b694-a1a415638a8b",
+   "5e4c8fd5-30f0-49a1-bad1-bbe4f780b3a0"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -101,55 +103,11 @@
    "c2411cb8-eec9-4726-96ba-514066e263fc",
    "340c5803-6104-4af5-80d4-e718e61e8ce7",
    "1b30e4fd-9671-4e9a-853f-9e10b3147afe",
-   "da985fe1-ddf2-4826-b492-866f94e91c7a"
+   "da985fe1-ddf2-4826-b492-866f94e91c7a",
+   "b52c040a-3528-4c95-ada3-68ebfdccdc94"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "65893134-1551-4347-9259-9ba4f565fe9a",
-   "title": "How the Midterm Results Change AI",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/128791666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435892590-44100-2-69b4a6a796c84.mp3",
-   "length": "23704554",
-   "type": "audio/mpeg",
-   "published": "2026-11-04T19:57:20+00:00",
-   "secs": 1481,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-the-Midterm-Results-Change-AI-e3rotli",
-   "day": "2026-11-05",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-05T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "84153fe9-ec9f-4cce-9389-b5c52069952c",
-   "title": "Leafs Hour: Come-Down in Calgary",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e12af005-ee54-41be-8598-033c60e11636/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e12af005-ee54-41be-8598-033c60e11636&feed=4jXBOWgY",
-   "length": "47822598",
-   "type": "audio/mpeg",
-   "published": "2026-10-27T20:59:59+00:00",
-   "secs": 2988,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-05",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-05T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "7c481829-88de-4aae-b023-57d798b7fc36",
-   "title": "Still Here",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/5aebc0a7-4ed8-4788-b9c0-c79c0cae0372/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=5aebc0a7-4ed8-4788-b9c0-c79c0cae0372&feed=dloY8UYJ",
-   "length": "25859227",
-   "type": "audio/mpeg",
-   "published": "2026-11-05T08:00:00+00:00",
-   "secs": 1616,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-05",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-05T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "3b3f73dc-3de7-428c-82d4-d0b90472142b",
@@ -404,6 +362,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-12T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "96eb9c00-c30b-4538-9342-bb49cb3f239f",
+   "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129337553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436594723-44100-2-2942f44a0831c8.mp3",
+   "length": "28513174",
+   "type": "audio/mpeg",
+   "published": "2026-11-12T18:44:45+00:00",
+   "secs": 1782,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Jensen-Huang-Is-Out--Everything-in-AI-Is-Now-Up-for-Grabs-e3s9ioh",
+   "day": "2026-11-13",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-13T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "5e4c8fd5-30f0-49a1-bad1-bbe4f780b3a0",
+   "title": "Vally's View: Best Performing Goaltenders So Far",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/bc4cde0b-3160-4592-a4ce-e5c67011c605/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=bc4cde0b-3160-4592-a4ce-e5c67011c605&feed=4jXBOWgY",
+   "length": "47894905",
+   "type": "audio/mpeg",
+   "published": "2026-11-03T23:00:02+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-13",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-13T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "b52c040a-3528-4c95-ada3-68ebfdccdc94",
+   "title": "Paved Over (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a9899e07-9ebb-4999-aa10-3c00aa99bea2/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a9899e07-9ebb-4999-aa10-3c00aa99bea2&feed=dloY8UYJ",
+   "length": "34592066",
+   "type": "audio/mpeg",
+   "published": "2026-11-13T08:00:00+00:00",
+   "secs": 2161,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-13",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-13T04:58:00-05:00"
   }
  ]
 }
