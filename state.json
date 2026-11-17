@@ -82,7 +82,8 @@
    "5e4c8fd5-30f0-49a1-bad1-bbe4f780b3a0",
    "aa1303c0-7a3e-4a84-9261-febc4f0951b0",
    "85dfb02c-bdc9-41c1-b9de-667d4d70240d",
-   "77e4cec5-474a-4548-9598-de5994aac6df"
+   "77e4cec5-474a-4548-9598-de5994aac6df",
+   "18f856c1-13b7-422b-a653-7d4423f84fd6"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -115,51 +116,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "67a0cc4c-bc54-42c5-9d75-3c5e3d230941",
-   "title": "Nvidia CEO Admits Affair With Suspected Chinese Spy",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129142850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-9%2F436336137-44100-2-f1c89ec6f8a918.mp3",
-   "length": "25618807",
-   "type": "audio/mpeg",
-   "published": "2026-11-09T19:34:01+00:00",
-   "secs": 1601,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Nvidia-CEO-Admits-Affair-With-Suspected-Chinese-Spy-e3s3kk2",
-   "day": "2026-11-09",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-09T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "0d3152af-255e-4b73-a390-00a20af360ba",
-   "title": "Leafs Hour: Tanev Returns For Canucks Clash",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/20b9c569-38ce-488f-961f-cba5a26f5d34/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=20b9c569-38ce-488f-961f-cba5a26f5d34&feed=4jXBOWgY",
-   "length": "47917475",
-   "type": "audio/mpeg",
-   "published": "2026-10-30T21:02:29+00:00",
-   "secs": 2994,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-09",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-09T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "340c5803-6104-4af5-80d4-e718e61e8ce7",
-   "title": "On the Line (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/8d0c1f91-0f9c-4854-9dfa-c22a4ec9a125/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=8d0c1f91-0f9c-4854-9dfa-c22a4ec9a125&feed=dloY8UYJ",
-   "length": "36534785",
-   "type": "audio/mpeg",
-   "published": "2026-11-09T08:00:00+00:00",
-   "secs": 2283,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-09",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-09T04:58:00-05:00"
-  },
   {
    "show": "Real Kyper & Bourne",
    "guid": "de401e8d-ab89-489d-a1cb-57afd7625fa2",
@@ -414,6 +370,21 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-16T04:58:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "18f856c1-13b7-422b-a653-7d4423f84fd6",
+   "title": "Devils Deny Hellebuyck's Winnipeg Return with Jason Bukala",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/d071cbaf-6375-4c83-9c3f-5f8203838c08/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=d071cbaf-6375-4c83-9c3f-5f8203838c08&feed=4jXBOWgY",
+   "length": "47932104",
+   "type": "audio/mpeg",
+   "published": "2026-11-09T22:59:35+00:00",
+   "secs": 2995,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-17",
+   "slot": 1,
+   "of": 1,
+   "pubdate": "2026-11-17T05:00:00-05:00"
   }
  ]
 }
