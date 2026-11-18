@@ -38,7 +38,8 @@
    "96eb9c00-c30b-4538-9342-bb49cb3f239f",
    "811b4a05-0d0f-417b-b1c9-bb29b088c715",
    "6656a3cd-cdaa-40df-959f-2d718703b7cc",
-   "6813afc1-df47-4615-8428-148d586d97ce"
+   "6813afc1-df47-4615-8428-148d586d97ce",
+   "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -83,7 +84,8 @@
    "aa1303c0-7a3e-4a84-9261-febc4f0951b0",
    "85dfb02c-bdc9-41c1-b9de-667d4d70240d",
    "77e4cec5-474a-4548-9598-de5994aac6df",
-   "18f856c1-13b7-422b-a653-7d4423f84fd6"
+   "18f856c1-13b7-422b-a653-7d4423f84fd6",
+   "5b3f5e57-099b-4530-bbf5-ec4c10ca139e"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -112,25 +114,11 @@
    "1b30e4fd-9671-4e9a-853f-9e10b3147afe",
    "da985fe1-ddf2-4826-b492-866f94e91c7a",
    "b52c040a-3528-4c95-ada3-68ebfdccdc94",
-   "11b51552-bdf0-4fdd-887b-439632b2399a"
+   "11b51552-bdf0-4fdd-887b-439632b2399a",
+   "3fe6ad93-ff1d-4e04-ba7b-12623401876b"
   ]
  },
  "items": [
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "de401e8d-ab89-489d-a1cb-57afd7625fa2",
-   "title": "Leafs Hour: Goalie Dilemma + Kucherov in Toronto?",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/25dbacaa-78a5-4777-9660-59dc02f48e3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=25dbacaa-78a5-4777-9660-59dc02f48e3d&feed=4jXBOWgY",
-   "length": "47896159",
-   "type": "audio/mpeg",
-   "published": "2026-11-02T21:59:11+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-10",
-   "slot": 1,
-   "of": 1,
-   "pubdate": "2026-11-10T05:00:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "3da03853-0d88-4880-aba7-02649d39d200",
@@ -385,6 +373,51 @@
    "slot": 1,
    "of": 1,
    "pubdate": "2026-11-17T05:00:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
+   "title": "How Business AI Use is Changing",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129647280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F437003892-44100-2-fac7f105dc9d.mp3",
+   "length": "23388994",
+   "type": "audio/mpeg",
+   "published": "2026-11-17T22:09:59+00:00",
+   "secs": 1461,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-Business-AI-Use-is-Changing-e3sj17g",
+   "day": "2026-11-18",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-18T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "5b3f5e57-099b-4530-bbf5-ec4c10ca139e",
+   "title": "Leafs Hour: More Lineup Questions Than Answers",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/68ac0ec6-2b15-44f6-bb65-193f7e653374/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=68ac0ec6-2b15-44f6-bb65-193f7e653374&feed=4jXBOWgY",
+   "length": "47901175",
+   "type": "audio/mpeg",
+   "published": "2026-11-10T22:01:38+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-18",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-18T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "3fe6ad93-ff1d-4e04-ba7b-12623401876b",
+   "title": "Masked Realities (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/00e90d44-7f15-4851-8fb6-b50f78055776/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=00e90d44-7f15-4851-8fb6-b50f78055776&feed=dloY8UYJ",
+   "length": "35820866",
+   "type": "audio/mpeg",
+   "published": "2026-11-18T08:00:00+00:00",
+   "secs": 2238,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-18",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-18T04:58:00-05:00"
   }
  ]
 }

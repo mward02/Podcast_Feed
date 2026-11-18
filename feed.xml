@@ -7,7 +7,31 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Tue, 17 Nov 2026 13:21:37 -0500</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:54:25 -0500</lastBuildDate>
+<item>
+<title>Wed Nov 18 · 1/3 · AI Daily Brief: How Business AI Use is Changing</title>
+<guid isPermaLink="false">drive-2026-11-18-cc47d313-6c38-4e8e-a7f6-baaf1e3064f6</guid>
+<pubDate>Wed, 18 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129647280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F437003892-44100-2-fac7f105dc9d.mp3" length="23388994" type="audio/mpeg"/>
+<itunes:duration>1461</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Business-AI-Use-is-Changing-e3sj17g</link>
+</item>
+<item>
+<title>Wed Nov 18 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: More Lineup Questions Than Answers</title>
+<guid isPermaLink="false">drive-2026-11-18-5b3f5e57-099b-4530-bbf5-ec4c10ca139e</guid>
+<pubDate>Wed, 18 Nov 2026 04:59:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/68ac0ec6-2b15-44f6-bb65-193f7e653374/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=68ac0ec6-2b15-44f6-bb65-193f7e653374&amp;feed=4jXBOWgY" length="47901175" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Wed Nov 18 · 3/3 · MrBallen: Masked Realities (PODCAST EXCLUSIVE EPISODE)</title>
+<guid isPermaLink="false">drive-2026-11-18-3fe6ad93-ff1d-4e04-ba7b-12623401876b</guid>
+<pubDate>Wed, 18 Nov 2026 04:58:00 -0500</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/00e90d44-7f15-4851-8fb6-b50f78055776/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=00e90d44-7f15-4851-8fb6-b50f78055776&amp;feed=dloY8UYJ" length="35820866" type="audio/mpeg"/>
+<itunes:duration>2238</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
 <item>
 <title>Tue Nov 17 · 1/1 · Real Kyper &amp; Bourne: Devils Deny Hellebuyck&#x27;s Winnipeg Return with Jason Bukala</title>
 <guid isPermaLink="false">drive-2026-11-17-18f856c1-13b7-422b-a653-7d4423f84fd6</guid>
@@ -143,14 +167,6 @@
 <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/efe31161-19b5-4123-9235-47b55d210102/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=efe31161-19b5-4123-9235-47b55d210102&amp;feed=dloY8UYJ" length="29373010" type="audio/mpeg"/>
 <itunes:duration>1835</itunes:duration>
 <link>https://ballenstudios.com/</link>
-</item>
-<item>
-<title>Tue Nov 10 · 1/1 · Real Kyper &amp; Bourne: Leafs Hour: Goalie Dilemma + Kucherov in Toronto?</title>
-<guid isPermaLink="false">drive-2026-11-10-de401e8d-ab89-489d-a1cb-57afd7625fa2</guid>
-<pubDate>Tue, 10 Nov 2026 05:00:00 -0500</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/25dbacaa-78a5-4777-9660-59dc02f48e3d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=25dbacaa-78a5-4777-9660-59dc02f48e3d&amp;feed=4jXBOWgY" length="47896159" type="audio/mpeg"/>
-<itunes:duration>2993</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
 </item>
 </channel>
 </rss>
