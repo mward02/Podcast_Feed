@@ -39,7 +39,8 @@
    "811b4a05-0d0f-417b-b1c9-bb29b088c715",
    "6656a3cd-cdaa-40df-959f-2d718703b7cc",
    "6813afc1-df47-4615-8428-148d586d97ce",
-   "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6"
+   "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
+   "80478cff-c50e-4da0-b541-ff1e8d243b91"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -85,7 +86,8 @@
    "85dfb02c-bdc9-41c1-b9de-667d4d70240d",
    "77e4cec5-474a-4548-9598-de5994aac6df",
    "18f856c1-13b7-422b-a653-7d4423f84fd6",
-   "5b3f5e57-099b-4530-bbf5-ec4c10ca139e"
+   "5b3f5e57-099b-4530-bbf5-ec4c10ca139e",
+   "d4b76edd-b493-4671-a149-7115bf84dff9"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -115,55 +117,11 @@
    "da985fe1-ddf2-4826-b492-866f94e91c7a",
    "b52c040a-3528-4c95-ada3-68ebfdccdc94",
    "11b51552-bdf0-4fdd-887b-439632b2399a",
-   "3fe6ad93-ff1d-4e04-ba7b-12623401876b"
+   "3fe6ad93-ff1d-4e04-ba7b-12623401876b",
+   "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "3da03853-0d88-4880-aba7-02649d39d200",
-   "title": "Fable 5.2 Is the Best AI Ever. So Why Am I Not Switching Yet?",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129220537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-10%2F436438429-44100-2-c6f55ce15027c.mp3",
-   "length": "28942418",
-   "type": "audio/mpeg",
-   "published": "2026-11-10T21:38:24+00:00",
-   "secs": 1808,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Fable-5-2-Is-the-Best-AI-Ever--So-Why-Am-I-Not-Switching-Yet-e3s60fp",
-   "day": "2026-11-11",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-11T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "870b3f3b-2ebd-4b95-909c-273895721ddf",
-   "title": "Will Tampa Bay Give Into Nikita Kucherov's Trade Request?",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/12946429-3265-46ce-88f5-7fd4e993bda9/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=12946429-3265-46ce-88f5-7fd4e993bda9&feed=4jXBOWgY",
-   "length": "47817583",
-   "type": "audio/mpeg",
-   "published": "2026-11-02T23:01:15+00:00",
-   "secs": 2988,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-11",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-11T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "1b30e4fd-9671-4e9a-853f-9e10b3147afe",
-   "title": "Prep for Disaster (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/efe31161-19b5-4123-9235-47b55d210102/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=efe31161-19b5-4123-9235-47b55d210102&feed=dloY8UYJ",
-   "length": "29373010",
-   "type": "audio/mpeg",
-   "published": "2026-11-11T08:00:00+00:00",
-   "secs": 1835,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-11",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-11T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "93f2a2e6-07c8-4567-8263-f6139f34436b",
@@ -418,6 +376,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-18T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "80478cff-c50e-4da0-b541-ff1e8d243b91",
+   "title": "Why the AI Kids Hate Astra 6.2",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129714909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437094342-44100-2-3bdfdcb09f0668.mp3",
+   "length": "24030980",
+   "type": "audio/mpeg",
+   "published": "2026-11-18T21:29:03+00:00",
+   "secs": 1501,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-the-AI-Kids-Hate-Astra-6-2-e3sl38t",
+   "day": "2026-11-19",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-19T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "d4b76edd-b493-4671-a149-7115bf84dff9",
+   "title": "Connor Hellebuyck's Changing Jets Legacy with Sean Reynolds",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e6747c02-5566-4baf-85ea-bc06517e3a81/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e6747c02-5566-4baf-85ea-bc06517e3a81&feed=4jXBOWgY",
+   "length": "47834301",
+   "type": "audio/mpeg",
+   "published": "2026-11-10T23:01:36+00:00",
+   "secs": 2989,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-19",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-19T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a",
+   "title": "Sai Kung Barrier",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/75274e2e-1ab4-4aca-9d6d-03e5765228b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=75274e2e-1ab4-4aca-9d6d-03e5765228b4&feed=dloY8UYJ",
+   "length": "23410772",
+   "type": "audio/mpeg",
+   "published": "2026-11-19T08:00:00+00:00",
+   "secs": 1463,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-19",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-19T04:58:00-05:00"
   }
  ]
 }
