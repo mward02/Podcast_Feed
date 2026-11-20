@@ -40,7 +40,8 @@
    "6656a3cd-cdaa-40df-959f-2d718703b7cc",
    "6813afc1-df47-4615-8428-148d586d97ce",
    "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
-   "80478cff-c50e-4da0-b541-ff1e8d243b91"
+   "80478cff-c50e-4da0-b541-ff1e8d243b91",
+   "6f6125c5-a94f-4090-9eed-c718dab576b9"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -87,7 +88,8 @@
    "77e4cec5-474a-4548-9598-de5994aac6df",
    "18f856c1-13b7-422b-a653-7d4423f84fd6",
    "5b3f5e57-099b-4530-bbf5-ec4c10ca139e",
-   "d4b76edd-b493-4671-a149-7115bf84dff9"
+   "d4b76edd-b493-4671-a149-7115bf84dff9",
+   "5be4d397-803f-4ee3-b1b6-d2598ad0bd66"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -122,51 +124,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "93f2a2e6-07c8-4567-8263-f6139f34436b",
-   "title": "Wall Street Has No Idea What Anthropic Is Worth",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129282723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-11%2F436521951-44100-2-914a4d06e596e.mp3",
-   "length": "23774353",
-   "type": "audio/mpeg",
-   "published": "2026-11-11T21:16:03+00:00",
-   "secs": 1485,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Wall-Street-Has-No-Idea-What-Anthropic-Is-Worth-e3s7t73",
-   "day": "2026-11-12",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-12T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "fadac20d-3388-41d0-b694-a1a415638a8b",
-   "title": "Leafs Hour: Mammoth Matchup Opens the Homestand",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/127d2b53-1595-4e1b-bf59-c9f14c79a91e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=127d2b53-1595-4e1b-bf59-c9f14c79a91e&feed=4jXBOWgY",
-   "length": "47948404",
-   "type": "audio/mpeg",
-   "published": "2026-11-03T21:59:48+00:00",
-   "secs": 2996,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-12",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-12T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "da985fe1-ddf2-4826-b492-866f94e91c7a",
-   "title": "Occupational Hazard",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/71444194-99de-48b3-b786-a264867e8b44/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=71444194-99de-48b3-b786-a264867e8b44&feed=dloY8UYJ",
-   "length": "25798155",
-   "type": "audio/mpeg",
-   "published": "2026-11-12T08:00:00+00:00",
-   "secs": 1612,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-12",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-12T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "96eb9c00-c30b-4538-9342-bb49cb3f239f",
@@ -421,6 +378,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-19T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "6f6125c5-a94f-4090-9eed-c718dab576b9",
+   "title": "The 10 Biggest Days in AI History",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129774094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437176160-44100-2-e745ddb3c93a1.mp3",
+   "length": "25513481",
+   "type": "audio/mpeg",
+   "published": "2026-11-19T21:39:48+00:00",
+   "secs": 1594,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-10-Biggest-Days-in-AI-History-e3smt2e",
+   "day": "2026-11-20",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-20T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "5be4d397-803f-4ee3-b1b6-d2598ad0bd66",
+   "title": "Leafs Hour: Panic Levels After 20 Games",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/2126a8f4-4986-4e4c-8731-83dc1d295d1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=2126a8f4-4986-4e4c-8731-83dc1d295d1a&feed=4jXBOWgY",
+   "length": "47895739",
+   "type": "audio/mpeg",
+   "published": "2026-11-11T21:59:49+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-20",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-20T04:59:00-05:00"
   }
  ]
 }
