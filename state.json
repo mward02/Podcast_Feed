@@ -41,7 +41,8 @@
    "6813afc1-df47-4615-8428-148d586d97ce",
    "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
    "80478cff-c50e-4da0-b541-ff1e8d243b91",
-   "6f6125c5-a94f-4090-9eed-c718dab576b9"
+   "6f6125c5-a94f-4090-9eed-c718dab576b9",
+   "f6167e44-4ff4-4262-a874-342517f0d5b7"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -89,7 +90,8 @@
    "18f856c1-13b7-422b-a653-7d4423f84fd6",
    "5b3f5e57-099b-4530-bbf5-ec4c10ca139e",
    "d4b76edd-b493-4671-a149-7115bf84dff9",
-   "5be4d397-803f-4ee3-b1b6-d2598ad0bd66"
+   "5be4d397-803f-4ee3-b1b6-d2598ad0bd66",
+   "a36d0777-1294-4b15-8bc5-bb3a69789c30"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -124,51 +126,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "96eb9c00-c30b-4538-9342-bb49cb3f239f",
-   "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129337553/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436594723-44100-2-2942f44a0831c8.mp3",
-   "length": "28513174",
-   "type": "audio/mpeg",
-   "published": "2026-11-12T18:44:45+00:00",
-   "secs": 1782,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Jensen-Huang-Is-Out--Everything-in-AI-Is-Now-Up-for-Grabs-e3s9ioh",
-   "day": "2026-11-13",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-13T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "5e4c8fd5-30f0-49a1-bad1-bbe4f780b3a0",
-   "title": "Vally's View: Best Performing Goaltenders So Far",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/bc4cde0b-3160-4592-a4ce-e5c67011c605/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=bc4cde0b-3160-4592-a4ce-e5c67011c605&feed=4jXBOWgY",
-   "length": "47894905",
-   "type": "audio/mpeg",
-   "published": "2026-11-03T23:00:02+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-13",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-13T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "b52c040a-3528-4c95-ada3-68ebfdccdc94",
-   "title": "Paved Over (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/a9899e07-9ebb-4999-aa10-3c00aa99bea2/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=a9899e07-9ebb-4999-aa10-3c00aa99bea2&feed=dloY8UYJ",
-   "length": "34592066",
-   "type": "audio/mpeg",
-   "published": "2026-11-13T08:00:00+00:00",
-   "secs": 2161,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-13",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-13T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "811b4a05-0d0f-417b-b1c9-bb29b088c715",
@@ -408,6 +365,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-20T04:59:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "f6167e44-4ff4-4262-a874-342517f0d5b7",
+   "title": "Why You Should Try Gemini Neon (Even if You Love Fable)",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129823342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437242919-44100-2-60737e935d621.mp3",
+   "length": "25672723",
+   "type": "audio/mpeg",
+   "published": "2026-11-20T18:30:51+00:00",
+   "secs": 1604,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-You-Should-Try-Gemini-Neon-Even-if-You-Love-Fable-e3sod5e",
+   "day": "2026-11-21",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-21T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "a36d0777-1294-4b15-8bc5-bb3a69789c30",
+   "title": "Player-Coach Relationships + Ovechkin's Final Year Pace with Kirk Muller",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/2ace314d-251f-43ae-98d0-a739c608c0bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=2ace314d-251f-43ae-98d0-a739c608c0bd&feed=4jXBOWgY",
+   "length": "47917893",
+   "type": "audio/mpeg",
+   "published": "2026-11-11T22:59:59+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-21",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-21T04:59:00-05:00"
   }
  ]
 }
