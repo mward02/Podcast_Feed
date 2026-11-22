@@ -42,7 +42,8 @@
    "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
    "80478cff-c50e-4da0-b541-ff1e8d243b91",
    "6f6125c5-a94f-4090-9eed-c718dab576b9",
-   "f6167e44-4ff4-4262-a874-342517f0d5b7"
+   "f6167e44-4ff4-4262-a874-342517f0d5b7",
+   "ee0abf6d-236e-41af-a05a-bb80ecde9cb3"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -91,7 +92,8 @@
    "5b3f5e57-099b-4530-bbf5-ec4c10ca139e",
    "d4b76edd-b493-4671-a149-7115bf84dff9",
    "5be4d397-803f-4ee3-b1b6-d2598ad0bd66",
-   "a36d0777-1294-4b15-8bc5-bb3a69789c30"
+   "a36d0777-1294-4b15-8bc5-bb3a69789c30",
+   "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -126,36 +128,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "811b4a05-0d0f-417b-b1c9-bb29b088c715",
-   "title": "Washington Is Taking Control of AI",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129398427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436676989-44100-2-009d4f3260eb38.mp3",
-   "length": "25485478",
-   "type": "audio/mpeg",
-   "published": "2026-11-13T19:59:53+00:00",
-   "secs": 1592,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Washington-Is-Taking-Control-of-AI-e3sbe6r",
-   "day": "2026-11-14",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-11-14T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "aa1303c0-7a3e-4a84-9261-febc4f0951b0",
-   "title": "Leafs Hour: Spotlight on Hiller + the Atlantic Division Gauntlet",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/5f3f606e-a5f9-4d5d-a3d1-a243b9eb06d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=5f3f606e-a5f9-4d5d-a3d1-a243b9eb06d4&feed=4jXBOWgY",
-   "length": "47901593",
-   "type": "audio/mpeg",
-   "published": "2026-11-04T22:00:20+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-14",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-11-14T04:59:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "6656a3cd-cdaa-40df-959f-2d718703b7cc",
@@ -395,6 +367,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-21T04:59:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "ee0abf6d-236e-41af-a05a-bb80ecde9cb3",
+   "title": "When AI Labs Rival Nations",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129896650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437343034-44100-2-37ce59be96df6.mp3",
+   "length": "23974137",
+   "type": "audio/mpeg",
+   "published": "2026-11-22T12:41:07+00:00",
+   "secs": 1498,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/When-AI-Labs-Rival-Nations-e3sqkoa",
+   "day": "2026-11-22",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-22T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea",
+   "title": "Leafs Hour: McKenna's Confidence + the White-Hot Wild",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/7e6027ca-3b85-48b5-9d29-e77985f57602/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=7e6027ca-3b85-48b5-9d29-e77985f57602&feed=4jXBOWgY",
+   "length": "47858125",
+   "type": "audio/mpeg",
+   "published": "2026-11-12T22:00:36+00:00",
+   "secs": 2991,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-22",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-22T04:59:00-05:00"
   }
  ]
 }

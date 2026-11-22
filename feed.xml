@@ -7,7 +7,23 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sat, 21 Nov 2026 11:41:50 -0500</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 12:00:43 -0500</lastBuildDate>
+<item>
+<title>Sun Nov 22 · 1/2 · AI Daily Brief: When AI Labs Rival Nations</title>
+<guid isPermaLink="false">drive-2026-11-22-ee0abf6d-236e-41af-a05a-bb80ecde9cb3</guid>
+<pubDate>Sun, 22 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129896650/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-22%2F437343034-44100-2-37ce59be96df6.mp3" length="23974137" type="audio/mpeg"/>
+<itunes:duration>1498</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/When-AI-Labs-Rival-Nations-e3sqkoa</link>
+</item>
+<item>
+<title>Sun Nov 22 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: McKenna&#x27;s Confidence + the White-Hot Wild</title>
+<guid isPermaLink="false">drive-2026-11-22-5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea</guid>
+<pubDate>Sun, 22 Nov 2026 04:59:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/7e6027ca-3b85-48b5-9d29-e77985f57602/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=7e6027ca-3b85-48b5-9d29-e77985f57602&amp;feed=4jXBOWgY" length="47858125" type="audio/mpeg"/>
+<itunes:duration>2991</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Sat Nov 21 · 1/2 · AI Daily Brief: Why You Should Try Gemini Neon (Even if You Love Fable)</title>
 <guid isPermaLink="false">drive-2026-11-21-f6167e44-4ff4-4262-a874-342517f0d5b7</guid>
@@ -133,22 +149,6 @@
 <guid isPermaLink="false">drive-2026-11-15-85dfb02c-bdc9-41c1-b9de-667d4d70240d</guid>
 <pubDate>Sun, 15 Nov 2026 04:59:00 -0500</pubDate>
 <enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/838424fa-2076-434c-ac28-e4aefd6f93d2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=838424fa-2076-434c-ac28-e4aefd6f93d2&amp;feed=4jXBOWgY" length="47899085" type="audio/mpeg"/>
-<itunes:duration>2993</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Sat Nov 14 · 1/2 · AI Daily Brief: Washington Is Taking Control of AI</title>
-<guid isPermaLink="false">drive-2026-11-14-811b4a05-0d0f-417b-b1c9-bb29b088c715</guid>
-<pubDate>Sat, 14 Nov 2026 05:00:00 -0500</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129398427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-13%2F436676989-44100-2-009d4f3260eb38.mp3" length="25485478" type="audio/mpeg"/>
-<itunes:duration>1592</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Washington-Is-Taking-Control-of-AI-e3sbe6r</link>
-</item>
-<item>
-<title>Sat Nov 14 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: Spotlight on Hiller + the Atlantic Division Gauntlet</title>
-<guid isPermaLink="false">drive-2026-11-14-aa1303c0-7a3e-4a84-9261-febc4f0951b0</guid>
-<pubDate>Sat, 14 Nov 2026 04:59:00 -0500</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/5f3f606e-a5f9-4d5d-a3d1-a243b9eb06d4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=5f3f606e-a5f9-4d5d-a3d1-a243b9eb06d4&amp;feed=4jXBOWgY" length="47901593" type="audio/mpeg"/>
 <itunes:duration>2993</itunes:duration>
 <link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
 </item>
