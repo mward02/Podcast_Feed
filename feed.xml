@@ -7,7 +7,23 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Sun, 22 Nov 2026 12:00:43 -0500</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 16:04:52 -0500</lastBuildDate>
+<item>
+<title>Mon Nov 23 · 1/2 · AI Daily Brief: Too Big to Fire: Jensen Huang Is Back as Nvidia CEO</title>
+<guid isPermaLink="false">drive-2026-11-23-fd57e298-f35e-4240-99a3-79a0c6e8ca2c</guid>
+<pubDate>Mon, 23 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129969396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437442747-44100-2-331e70c28ee87.mp3" length="23767248" type="audio/mpeg"/>
+<itunes:duration>1485</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/Too-Big-to-Fire-Jensen-Huang-Is-Back-as-Nvidia-CEO-e3ssrpk</link>
+</item>
+<item>
+<title>Mon Nov 23 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: Homesick</title>
+<guid isPermaLink="false">drive-2026-11-23-07ebf54e-3056-4186-a3b2-9316cde0b9f8</guid>
+<pubDate>Mon, 23 Nov 2026 04:59:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/1b7d7455-1cc5-4887-988d-e6c30a8e86ae/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=1b7d7455-1cc5-4887-988d-e6c30a8e86ae&amp;feed=4jXBOWgY" length="47894487" type="audio/mpeg"/>
+<itunes:duration>2993</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Sun Nov 22 · 1/2 · AI Daily Brief: When AI Labs Rival Nations</title>
 <guid isPermaLink="false">drive-2026-11-22-ee0abf6d-236e-41af-a05a-bb80ecde9cb3</guid>
@@ -135,22 +151,6 @@
 <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/298a3de2-942a-4919-981e-4dcca30f298c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=298a3de2-942a-4919-981e-4dcca30f298c&amp;feed=dloY8UYJ" length="35779950" type="audio/mpeg"/>
 <itunes:duration>2236</itunes:duration>
 <link>https://ballenstudios.com/</link>
-</item>
-<item>
-<title>Sun Nov 15 · 1/2 · AI Daily Brief: 7 Things AI-Native Companies Do Differently</title>
-<guid isPermaLink="false">drive-2026-11-15-6656a3cd-cdaa-40df-959f-2d718703b7cc</guid>
-<pubDate>Sun, 15 Nov 2026 05:00:00 -0500</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129479639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436782466-44100-2-e72c06f595e3d.mp3" length="21695842" type="audio/mpeg"/>
-<itunes:duration>1355</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/7-Things-AI-Native-Companies-Do-Differently-e3sdtgn</link>
-</item>
-<item>
-<title>Sun Nov 15 · 2/2 · Real Kyper &amp; Bourne: Leafs Hour: The Plan for Auston Matthews</title>
-<guid isPermaLink="false">drive-2026-11-15-85dfb02c-bdc9-41c1-b9de-667d4d70240d</guid>
-<pubDate>Sun, 15 Nov 2026 04:59:00 -0500</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/838424fa-2076-434c-ac28-e4aefd6f93d2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=838424fa-2076-434c-ac28-e4aefd6f93d2&amp;feed=4jXBOWgY" length="47899085" type="audio/mpeg"/>
-<itunes:duration>2993</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
 </item>
 </channel>
 </rss>

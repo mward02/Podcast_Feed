@@ -43,7 +43,8 @@
    "80478cff-c50e-4da0-b541-ff1e8d243b91",
    "6f6125c5-a94f-4090-9eed-c718dab576b9",
    "f6167e44-4ff4-4262-a874-342517f0d5b7",
-   "ee0abf6d-236e-41af-a05a-bb80ecde9cb3"
+   "ee0abf6d-236e-41af-a05a-bb80ecde9cb3",
+   "fd57e298-f35e-4240-99a3-79a0c6e8ca2c"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -93,7 +94,8 @@
    "d4b76edd-b493-4671-a149-7115bf84dff9",
    "5be4d397-803f-4ee3-b1b6-d2598ad0bd66",
    "a36d0777-1294-4b15-8bc5-bb3a69789c30",
-   "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea"
+   "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea",
+   "07ebf54e-3056-4186-a3b2-9316cde0b9f8"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -128,36 +130,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "6656a3cd-cdaa-40df-959f-2d718703b7cc",
-   "title": "7 Things AI-Native Companies Do Differently",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129479639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2F436782466-44100-2-e72c06f595e3d.mp3",
-   "length": "21695842",
-   "type": "audio/mpeg",
-   "published": "2026-11-15T12:20:55+00:00",
-   "secs": 1355,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/7-Things-AI-Native-Companies-Do-Differently-e3sdtgn",
-   "day": "2026-11-15",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-11-15T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "85dfb02c-bdc9-41c1-b9de-667d4d70240d",
-   "title": "Leafs Hour: The Plan for Auston Matthews",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/838424fa-2076-434c-ac28-e4aefd6f93d2/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=838424fa-2076-434c-ac28-e4aefd6f93d2&feed=4jXBOWgY",
-   "length": "47899085",
-   "type": "audio/mpeg",
-   "published": "2026-11-05T22:03:04+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-15",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-11-15T04:59:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "6813afc1-df47-4615-8428-148d586d97ce",
@@ -397,6 +369,36 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-22T04:59:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "fd57e298-f35e-4240-99a3-79a0c6e8ca2c",
+   "title": "Too Big to Fire: Jensen Huang Is Back as Nvidia CEO",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/129969396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437442747-44100-2-331e70c28ee87.mp3",
+   "length": "23767248",
+   "type": "audio/mpeg",
+   "published": "2026-11-23T18:23:30+00:00",
+   "secs": 1485,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Too-Big-to-Fire-Jensen-Huang-Is-Back-as-Nvidia-CEO-e3ssrpk",
+   "day": "2026-11-23",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-23T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "07ebf54e-3056-4186-a3b2-9316cde0b9f8",
+   "title": "Leafs Hour: Homesick",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/1b7d7455-1cc5-4887-988d-e6c30a8e86ae/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=1b7d7455-1cc5-4887-988d-e6c30a8e86ae&feed=4jXBOWgY",
+   "length": "47894487",
+   "type": "audio/mpeg",
+   "published": "2026-11-13T21:59:45+00:00",
+   "secs": 2993,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-23",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-23T04:59:00-05:00"
   }
  ]
 }
