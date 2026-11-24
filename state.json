@@ -95,7 +95,8 @@
    "5be4d397-803f-4ee3-b1b6-d2598ad0bd66",
    "a36d0777-1294-4b15-8bc5-bb3a69789c30",
    "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea",
-   "07ebf54e-3056-4186-a3b2-9316cde0b9f8"
+   "07ebf54e-3056-4186-a3b2-9316cde0b9f8",
+   "c3676b61-fb86-497d-acc4-ac41666534f0"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -130,51 +131,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "6813afc1-df47-4615-8428-148d586d97ce",
-   "title": "5 Questions That Could Reshape AI",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129567717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F436897777-44100-2-ce5a89d7de7118.mp3",
-   "length": "27067871",
-   "type": "audio/mpeg",
-   "published": "2026-11-16T19:21:28+00:00",
-   "secs": 1691,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/5-Questions-That-Could-Reshape-AI-e3sgjh5",
-   "day": "2026-11-16",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-16T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "77e4cec5-474a-4548-9598-de5994aac6df",
-   "title": "Leafs Hour: Dion Phaneuf In-Studio + Blue Line Problems Piling Up",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e0607027-ef6c-45d7-9583-23b62c537ae8/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e0607027-ef6c-45d7-9583-23b62c537ae8&feed=4jXBOWgY",
-   "length": "47950494",
-   "type": "audio/mpeg",
-   "published": "2026-11-09T22:06:43+00:00",
-   "secs": 2996,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-16",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-16T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "11b51552-bdf0-4fdd-887b-439632b2399a",
-   "title": "The Stylist (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/298a3de2-942a-4919-981e-4dcca30f298c/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=298a3de2-942a-4919-981e-4dcca30f298c&feed=dloY8UYJ",
-   "length": "35779950",
-   "type": "audio/mpeg",
-   "published": "2026-11-16T08:00:00+00:00",
-   "secs": 2236,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-16",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-16T04:58:00-05:00"
-  },
   {
    "show": "Real Kyper & Bourne",
    "guid": "18f856c1-13b7-422b-a653-7d4423f84fd6",
@@ -399,6 +355,21 @@
    "slot": 2,
    "of": 2,
    "pubdate": "2026-11-23T04:59:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "c3676b61-fb86-497d-acc4-ac41666534f0",
+   "title": "Leafs Hour: Lotta Losses",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/0b275087-917d-4028-a20a-b1a8aa9ae750/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=0b275087-917d-4028-a20a-b1a8aa9ae750&feed=4jXBOWgY",
+   "length": "47927924",
+   "type": "audio/mpeg",
+   "published": "2026-11-16T22:00:45+00:00",
+   "secs": 2995,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-24",
+   "slot": 1,
+   "of": 1,
+   "pubdate": "2026-11-24T05:00:00-05:00"
   }
  ]
 }

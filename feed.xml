@@ -7,7 +7,15 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Mon, 23 Nov 2026 16:04:52 -0500</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 15:03:30 -0500</lastBuildDate>
+<item>
+<title>Tue Nov 24 · 1/1 · Real Kyper &amp; Bourne: Leafs Hour: Lotta Losses</title>
+<guid isPermaLink="false">drive-2026-11-24-c3676b61-fb86-497d-acc4-ac41666534f0</guid>
+<pubDate>Tue, 24 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/0b275087-917d-4028-a20a-b1a8aa9ae750/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=0b275087-917d-4028-a20a-b1a8aa9ae750&amp;feed=4jXBOWgY" length="47927924" type="audio/mpeg"/>
+<itunes:duration>2995</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
 <item>
 <title>Mon Nov 23 · 1/2 · AI Daily Brief: Too Big to Fire: Jensen Huang Is Back as Nvidia CEO</title>
 <guid isPermaLink="false">drive-2026-11-23-fd57e298-f35e-4240-99a3-79a0c6e8ca2c</guid>
@@ -127,30 +135,6 @@
 <enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/d071cbaf-6375-4c83-9c3f-5f8203838c08/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=d071cbaf-6375-4c83-9c3f-5f8203838c08&amp;feed=4jXBOWgY" length="47932104" type="audio/mpeg"/>
 <itunes:duration>2995</itunes:duration>
 <link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Mon Nov 16 · 1/3 · AI Daily Brief: 5 Questions That Could Reshape AI</title>
-<guid isPermaLink="false">drive-2026-11-16-6813afc1-df47-4615-8428-148d586d97ce</guid>
-<pubDate>Mon, 16 Nov 2026 05:00:00 -0500</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129567717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-16%2F436897777-44100-2-ce5a89d7de7118.mp3" length="27067871" type="audio/mpeg"/>
-<itunes:duration>1691</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/5-Questions-That-Could-Reshape-AI-e3sgjh5</link>
-</item>
-<item>
-<title>Mon Nov 16 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Dion Phaneuf In-Studio + Blue Line Problems Piling Up</title>
-<guid isPermaLink="false">drive-2026-11-16-77e4cec5-474a-4548-9598-de5994aac6df</guid>
-<pubDate>Mon, 16 Nov 2026 04:59:00 -0500</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e0607027-ef6c-45d7-9583-23b62c537ae8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=e0607027-ef6c-45d7-9583-23b62c537ae8&amp;feed=4jXBOWgY" length="47950494" type="audio/mpeg"/>
-<itunes:duration>2996</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Mon Nov 16 · 3/3 · MrBallen: The Stylist (PODCAST EXCLUSIVE EPISODE)</title>
-<guid isPermaLink="false">drive-2026-11-16-11b51552-bdf0-4fdd-887b-439632b2399a</guid>
-<pubDate>Mon, 16 Nov 2026 04:58:00 -0500</pubDate>
-<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/298a3de2-942a-4919-981e-4dcca30f298c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=298a3de2-942a-4919-981e-4dcca30f298c&amp;feed=dloY8UYJ" length="35779950" type="audio/mpeg"/>
-<itunes:duration>2236</itunes:duration>
-<link>https://ballenstudios.com/</link>
 </item>
 </channel>
 </rss>
