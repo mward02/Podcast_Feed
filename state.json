@@ -44,7 +44,8 @@
    "6f6125c5-a94f-4090-9eed-c718dab576b9",
    "f6167e44-4ff4-4262-a874-342517f0d5b7",
    "ee0abf6d-236e-41af-a05a-bb80ecde9cb3",
-   "fd57e298-f35e-4240-99a3-79a0c6e8ca2c"
+   "fd57e298-f35e-4240-99a3-79a0c6e8ca2c",
+   "43f659d9-6f1b-4b0e-9478-278aa059b338"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -96,7 +97,8 @@
    "a36d0777-1294-4b15-8bc5-bb3a69789c30",
    "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea",
    "07ebf54e-3056-4186-a3b2-9316cde0b9f8",
-   "c3676b61-fb86-497d-acc4-ac41666534f0"
+   "c3676b61-fb86-497d-acc4-ac41666534f0",
+   "c42a6452-4b28-4ab7-ad0c-21709e90cd40"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -127,25 +129,11 @@
    "b52c040a-3528-4c95-ada3-68ebfdccdc94",
    "11b51552-bdf0-4fdd-887b-439632b2399a",
    "3fe6ad93-ff1d-4e04-ba7b-12623401876b",
-   "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a"
+   "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a",
+   "5a30e07e-ba58-48d0-afc3-a180487ea98d"
   ]
  },
  "items": [
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "18f856c1-13b7-422b-a653-7d4423f84fd6",
-   "title": "Devils Deny Hellebuyck's Winnipeg Return with Jason Bukala",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/d071cbaf-6375-4c83-9c3f-5f8203838c08/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=d071cbaf-6375-4c83-9c3f-5f8203838c08&feed=4jXBOWgY",
-   "length": "47932104",
-   "type": "audio/mpeg",
-   "published": "2026-11-09T22:59:35+00:00",
-   "secs": 2995,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-17",
-   "slot": 1,
-   "of": 1,
-   "pubdate": "2026-11-17T05:00:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
@@ -370,6 +358,51 @@
    "slot": 1,
    "of": 1,
    "pubdate": "2026-11-24T05:00:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "43f659d9-6f1b-4b0e-9478-278aa059b338",
+   "title": "AI Just Made History in the Middle of a Meltdown",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/130043247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437541143-44100-2-3f2cc326c94d7.mp3",
+   "length": "28522369",
+   "type": "audio/mpeg",
+   "published": "2026-11-24T20:12:22+00:00",
+   "secs": 1782,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-Just-Made-History-in-the-Middle-of-a-Meltdown-e3sv3tf",
+   "day": "2026-11-25",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-25T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "c42a6452-4b28-4ab7-ad0c-21709e90cd40",
+   "title": "Quarter Mark for Canada's NHL Teams with David Amber",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/27ee49b9-452a-4202-b3da-673236b7ef13/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=27ee49b9-452a-4202-b3da-673236b7ef13&feed=4jXBOWgY",
+   "length": "47805044",
+   "type": "audio/mpeg",
+   "published": "2026-11-16T23:00:05+00:00",
+   "secs": 2987,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-25",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-25T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "5a30e07e-ba58-48d0-afc3-a180487ea98d",
+   "title": "Off the Beaten Path (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/506938cc-ae1a-441c-b08d-44f2b838ff18/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=506938cc-ae1a-441c-b08d-44f2b838ff18&feed=dloY8UYJ",
+   "length": "40399191",
+   "type": "audio/mpeg",
+   "published": "2026-11-25T08:00:00+00:00",
+   "secs": 2524,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-25",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-25T04:58:00-05:00"
   }
  ]
 }
