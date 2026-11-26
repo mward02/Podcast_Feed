@@ -45,7 +45,8 @@
    "f6167e44-4ff4-4262-a874-342517f0d5b7",
    "ee0abf6d-236e-41af-a05a-bb80ecde9cb3",
    "fd57e298-f35e-4240-99a3-79a0c6e8ca2c",
-   "43f659d9-6f1b-4b0e-9478-278aa059b338"
+   "43f659d9-6f1b-4b0e-9478-278aa059b338",
+   "dfb28d5f-6607-44ac-b6ce-ab4f2582886d"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -98,7 +99,8 @@
    "5c3b4c40-50ce-4e1c-b8d8-882ac4f0b6ea",
    "07ebf54e-3056-4186-a3b2-9316cde0b9f8",
    "c3676b61-fb86-497d-acc4-ac41666534f0",
-   "c42a6452-4b28-4ab7-ad0c-21709e90cd40"
+   "c42a6452-4b28-4ab7-ad0c-21709e90cd40",
+   "cd4e2f47-0e39-4cc9-9724-c5665099cdfd"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -130,55 +132,11 @@
    "11b51552-bdf0-4fdd-887b-439632b2399a",
    "3fe6ad93-ff1d-4e04-ba7b-12623401876b",
    "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a",
-   "5a30e07e-ba58-48d0-afc3-a180487ea98d"
+   "5a30e07e-ba58-48d0-afc3-a180487ea98d",
+   "a33b3188-9e7f-49f3-a2a4-c9c9b2a0926c"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "cc47d313-6c38-4e8e-a7f6-baaf1e3064f6",
-   "title": "How Business AI Use is Changing",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129647280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F437003892-44100-2-fac7f105dc9d.mp3",
-   "length": "23388994",
-   "type": "audio/mpeg",
-   "published": "2026-11-17T22:09:59+00:00",
-   "secs": 1461,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-Business-AI-Use-is-Changing-e3sj17g",
-   "day": "2026-11-18",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-18T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "5b3f5e57-099b-4530-bbf5-ec4c10ca139e",
-   "title": "Leafs Hour: More Lineup Questions Than Answers",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/68ac0ec6-2b15-44f6-bb65-193f7e653374/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=68ac0ec6-2b15-44f6-bb65-193f7e653374&feed=4jXBOWgY",
-   "length": "47901175",
-   "type": "audio/mpeg",
-   "published": "2026-11-10T22:01:38+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-18",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-18T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "3fe6ad93-ff1d-4e04-ba7b-12623401876b",
-   "title": "Masked Realities (PODCAST EXCLUSIVE EPISODE)",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/00e90d44-7f15-4851-8fb6-b50f78055776/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=00e90d44-7f15-4851-8fb6-b50f78055776&feed=dloY8UYJ",
-   "length": "35820866",
-   "type": "audio/mpeg",
-   "published": "2026-11-18T08:00:00+00:00",
-   "secs": 2238,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-18",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-18T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "80478cff-c50e-4da0-b541-ff1e8d243b91",
@@ -403,6 +361,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-25T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "dfb28d5f-6607-44ac-b6ce-ab4f2582886d",
+   "title": "How Anthropic Went From Anti-Product to $81B a Year",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/130104672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437622914-44100-2-85d3ae3be3d62.mp3",
+   "length": "18872528",
+   "type": "audio/mpeg",
+   "published": "2026-11-26T15:00:00+00:00",
+   "secs": 1179,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-Anthropic-Went-From-Anti-Product-to-81B-a-Year-e3t0vt0",
+   "day": "2026-11-26",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-26T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "cd4e2f47-0e39-4cc9-9724-c5665099cdfd",
+   "title": "Leafs Hour: Edvinsson Interest + State of the Blackhawks",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b2e4ab77-45d5-4c80-9a04-83eac81d3bfb/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=b2e4ab77-45d5-4c80-9a04-83eac81d3bfb&feed=4jXBOWgY",
+   "length": "47920401",
+   "type": "audio/mpeg",
+   "published": "2026-11-17T22:00:39+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-26",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-26T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "a33b3188-9e7f-49f3-a2a4-c9c9b2a0926c",
+   "title": "Peel It Back",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/2b76340a-c6ff-4ab1-a018-09ec45f095e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=2b76340a-c6ff-4ab1-a018-09ec45f095e2&feed=dloY8UYJ",
+   "length": "31290975",
+   "type": "audio/mpeg",
+   "published": "2026-11-26T08:00:00+00:00",
+   "secs": 1955,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-26",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-26T04:58:00-05:00"
   }
  ]
 }

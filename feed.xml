@@ -7,7 +7,31 @@
 <description>Daily drive playlist, rebuilt every morning.</description>
 <itunes:author>Matt</itunes:author>
 <itunes:explicit>false</itunes:explicit>
-<lastBuildDate>Wed, 25 Nov 2026 14:03:58 -0500</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 13:54:35 -0500</lastBuildDate>
+<item>
+<title>Thu Nov 26 · 1/3 · AI Daily Brief: How Anthropic Went From Anti-Product to $81B a Year</title>
+<guid isPermaLink="false">drive-2026-11-26-dfb28d5f-6607-44ac-b6ce-ab4f2582886d</guid>
+<pubDate>Thu, 26 Nov 2026 05:00:00 -0500</pubDate>
+<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/130104672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437622914-44100-2-85d3ae3be3d62.mp3" length="18872528" type="audio/mpeg"/>
+<itunes:duration>1179</itunes:duration>
+<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Anthropic-Went-From-Anti-Product-to-81B-a-Year-e3t0vt0</link>
+</item>
+<item>
+<title>Thu Nov 26 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: Edvinsson Interest + State of the Blackhawks</title>
+<guid isPermaLink="false">drive-2026-11-26-cd4e2f47-0e39-4cc9-9724-c5665099cdfd</guid>
+<pubDate>Thu, 26 Nov 2026 04:59:00 -0500</pubDate>
+<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/b2e4ab77-45d5-4c80-9a04-83eac81d3bfb/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=b2e4ab77-45d5-4c80-9a04-83eac81d3bfb&amp;feed=4jXBOWgY" length="47920401" type="audio/mpeg"/>
+<itunes:duration>2994</itunes:duration>
+<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
+</item>
+<item>
+<title>Thu Nov 26 · 3/3 · MrBallen: Peel It Back</title>
+<guid isPermaLink="false">drive-2026-11-26-a33b3188-9e7f-49f3-a2a4-c9c9b2a0926c</guid>
+<pubDate>Thu, 26 Nov 2026 04:58:00 -0500</pubDate>
+<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/2b76340a-c6ff-4ab1-a018-09ec45f095e2/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=2b76340a-c6ff-4ab1-a018-09ec45f095e2&amp;feed=dloY8UYJ" length="31290975" type="audio/mpeg"/>
+<itunes:duration>1955</itunes:duration>
+<link>https://ballenstudios.com/</link>
+</item>
 <item>
 <title>Wed Nov 25 · 1/3 · AI Daily Brief: AI Just Made History in the Middle of a Meltdown</title>
 <guid isPermaLink="false">drive-2026-11-25-43f659d9-6f1b-4b0e-9478-278aa059b338</guid>
@@ -126,30 +150,6 @@
 <pubDate>Thu, 19 Nov 2026 04:58:00 -0500</pubDate>
 <enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/75274e2e-1ab4-4aca-9d6d-03e5765228b4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=75274e2e-1ab4-4aca-9d6d-03e5765228b4&amp;feed=dloY8UYJ" length="23410772" type="audio/mpeg"/>
 <itunes:duration>1463</itunes:duration>
-<link>https://ballenstudios.com/</link>
-</item>
-<item>
-<title>Wed Nov 18 · 1/3 · AI Daily Brief: How Business AI Use is Changing</title>
-<guid isPermaLink="false">drive-2026-11-18-cc47d313-6c38-4e8e-a7f6-baaf1e3064f6</guid>
-<pubDate>Wed, 18 Nov 2026 05:00:00 -0500</pubDate>
-<enclosure url="https://anchor.fm/s/f7cac464/podcast/play/129647280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F437003892-44100-2-fac7f105dc9d.mp3" length="23388994" type="audio/mpeg"/>
-<itunes:duration>1461</itunes:duration>
-<link>https://podcasters.spotify.com/pod/show/nlw/episodes/How-Business-AI-Use-is-Changing-e3sj17g</link>
-</item>
-<item>
-<title>Wed Nov 18 · 2/3 · Real Kyper &amp; Bourne: Leafs Hour: More Lineup Questions Than Answers</title>
-<guid isPermaLink="false">drive-2026-11-18-5b3f5e57-099b-4530-bbf5-ec4c10ca139e</guid>
-<pubDate>Wed, 18 Nov 2026 04:59:00 -0500</pubDate>
-<enclosure url="https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/68ac0ec6-2b15-44f6-bb65-193f7e653374/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&amp;awEpisodeId=68ac0ec6-2b15-44f6-bb65-193f7e653374&amp;feed=4jXBOWgY" length="47901175" type="audio/mpeg"/>
-<itunes:duration>2993</itunes:duration>
-<link>https://www.sportsnet.ca/590/real-kyper-bourne/</link>
-</item>
-<item>
-<title>Wed Nov 18 · 3/3 · MrBallen: Masked Realities (PODCAST EXCLUSIVE EPISODE)</title>
-<guid isPermaLink="false">drive-2026-11-18-3fe6ad93-ff1d-4e04-ba7b-12623401876b</guid>
-<pubDate>Wed, 18 Nov 2026 04:58:00 -0500</pubDate>
-<enclosure url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/00e90d44-7f15-4851-8fb6-b50f78055776/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&amp;awEpisodeId=00e90d44-7f15-4851-8fb6-b50f78055776&amp;feed=dloY8UYJ" length="35820866" type="audio/mpeg"/>
-<itunes:duration>2238</itunes:duration>
 <link>https://ballenstudios.com/</link>
 </item>
 </channel>
