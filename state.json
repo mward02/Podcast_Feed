@@ -46,7 +46,8 @@
    "ee0abf6d-236e-41af-a05a-bb80ecde9cb3",
    "fd57e298-f35e-4240-99a3-79a0c6e8ca2c",
    "43f659d9-6f1b-4b0e-9478-278aa059b338",
-   "dfb28d5f-6607-44ac-b6ce-ab4f2582886d"
+   "dfb28d5f-6607-44ac-b6ce-ab4f2582886d",
+   "686ac867-b3c2-4fbf-b575-0e6e19b10291"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -100,7 +101,8 @@
    "07ebf54e-3056-4186-a3b2-9316cde0b9f8",
    "c3676b61-fb86-497d-acc4-ac41666534f0",
    "c42a6452-4b28-4ab7-ad0c-21709e90cd40",
-   "cd4e2f47-0e39-4cc9-9724-c5665099cdfd"
+   "cd4e2f47-0e39-4cc9-9724-c5665099cdfd",
+   "b9fae95d-6000-49dc-942d-5ab9d02b7149"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -133,55 +135,11 @@
    "3fe6ad93-ff1d-4e04-ba7b-12623401876b",
    "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a",
    "5a30e07e-ba58-48d0-afc3-a180487ea98d",
-   "a33b3188-9e7f-49f3-a2a4-c9c9b2a0926c"
+   "a33b3188-9e7f-49f3-a2a4-c9c9b2a0926c",
+   "e7692bdb-f1bb-4d93-ac8c-e75155334f32"
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "80478cff-c50e-4da0-b541-ff1e8d243b91",
-   "title": "Why the AI Kids Hate Astra 6.2",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129714909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-18%2F437094342-44100-2-3bdfdcb09f0668.mp3",
-   "length": "24030980",
-   "type": "audio/mpeg",
-   "published": "2026-11-18T21:29:03+00:00",
-   "secs": 1501,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/Why-the-AI-Kids-Hate-Astra-6-2-e3sl38t",
-   "day": "2026-11-19",
-   "slot": 1,
-   "of": 3,
-   "pubdate": "2026-11-19T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "d4b76edd-b493-4671-a149-7115bf84dff9",
-   "title": "Connor Hellebuyck's Changing Jets Legacy with Sean Reynolds",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/e6747c02-5566-4baf-85ea-bc06517e3a81/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=e6747c02-5566-4baf-85ea-bc06517e3a81&feed=4jXBOWgY",
-   "length": "47834301",
-   "type": "audio/mpeg",
-   "published": "2026-11-10T23:01:36+00:00",
-   "secs": 2989,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-19",
-   "slot": 2,
-   "of": 3,
-   "pubdate": "2026-11-19T04:59:00-05:00"
-  },
-  {
-   "show": "MrBallen",
-   "guid": "4f7dfef0-5bd7-4207-853c-3bdb8bb13e0a",
-   "title": "Sai Kung Barrier",
-   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/75274e2e-1ab4-4aca-9d6d-03e5765228b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=75274e2e-1ab4-4aca-9d6d-03e5765228b4&feed=dloY8UYJ",
-   "length": "23410772",
-   "type": "audio/mpeg",
-   "published": "2026-11-19T08:00:00+00:00",
-   "secs": 1463,
-   "link": "https://ballenstudios.com/",
-   "day": "2026-11-19",
-   "slot": 3,
-   "of": 3,
-   "pubdate": "2026-11-19T04:58:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "6f6125c5-a94f-4090-9eed-c718dab576b9",
@@ -406,6 +364,51 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-26T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "686ac867-b3c2-4fbf-b575-0e6e19b10291",
+   "title": "AI is Too Big to Fail",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/130211103/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-27%2F437768288-44100-2-88439098df2f68.mp3",
+   "length": "26200606",
+   "type": "audio/mpeg",
+   "published": "2026-11-27T18:00:01+00:00",
+   "secs": 1637,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/AI-is-Too-Big-to-Fail-e3t47qv",
+   "day": "2026-11-27",
+   "slot": 1,
+   "of": 3,
+   "pubdate": "2026-11-27T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "b9fae95d-6000-49dc-942d-5ab9d02b7149",
+   "title": "Vally's View: Is It Devon Levi's Net? + Bobrovsky By the Numbers",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/101dd59e-e7cc-497d-9879-2736f5cc745e/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=101dd59e-e7cc-497d-9879-2736f5cc745e&feed=4jXBOWgY",
+   "length": "47756561",
+   "type": "audio/mpeg",
+   "published": "2026-11-17T22:59:30+00:00",
+   "secs": 2984,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-27",
+   "slot": 2,
+   "of": 3,
+   "pubdate": "2026-11-27T04:59:00-05:00"
+  },
+  {
+   "show": "MrBallen",
+   "guid": "e7692bdb-f1bb-4d93-ac8c-e75155334f32",
+   "title": "The Last Sound You Hear (PODCAST EXCLUSIVE EPISODE)",
+   "url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/814143cd-09c6-426f-920a-7be9b3dc1506/episodes/98bf16ed-d8a2-43ce-9bb8-26117da993a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=814143cd-09c6-426f-920a-7be9b3dc1506&awEpisodeId=98bf16ed-d8a2-43ce-9bb8-26117da993a8&feed=dloY8UYJ",
+   "length": "33929409",
+   "type": "audio/mpeg",
+   "published": "2026-11-27T08:00:00+00:00",
+   "secs": 2120,
+   "link": "https://ballenstudios.com/",
+   "day": "2026-11-27",
+   "slot": 3,
+   "of": 3,
+   "pubdate": "2026-11-27T04:58:00-05:00"
   }
  ]
 }
