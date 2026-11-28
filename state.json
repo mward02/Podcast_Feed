@@ -47,7 +47,8 @@
    "fd57e298-f35e-4240-99a3-79a0c6e8ca2c",
    "43f659d9-6f1b-4b0e-9478-278aa059b338",
    "dfb28d5f-6607-44ac-b6ce-ab4f2582886d",
-   "686ac867-b3c2-4fbf-b575-0e6e19b10291"
+   "686ac867-b3c2-4fbf-b575-0e6e19b10291",
+   "eda4b892-9917-49c9-b82e-6a2f5e6ac0c0"
   ],
   "Real Kyper & Bourne": [
    "cf6dab31-ae03-47f8-96fe-b78b203327f0",
@@ -102,7 +103,8 @@
    "c3676b61-fb86-497d-acc4-ac41666534f0",
    "c42a6452-4b28-4ab7-ad0c-21709e90cd40",
    "cd4e2f47-0e39-4cc9-9724-c5665099cdfd",
-   "b9fae95d-6000-49dc-942d-5ab9d02b7149"
+   "b9fae95d-6000-49dc-942d-5ab9d02b7149",
+   "86362c65-f3c0-4b50-8142-702c70b0d4f3"
   ],
   "MrBallen": [
    "de321f84-1b99-460b-bc17-094a336de6f9",
@@ -140,36 +142,6 @@
   ]
  },
  "items": [
-  {
-   "show": "AI Daily Brief",
-   "guid": "6f6125c5-a94f-4090-9eed-c718dab576b9",
-   "title": "The 10 Biggest Days in AI History",
-   "url": "https://anchor.fm/s/f7cac464/podcast/play/129774094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-19%2F437176160-44100-2-e745ddb3c93a1.mp3",
-   "length": "25513481",
-   "type": "audio/mpeg",
-   "published": "2026-11-19T21:39:48+00:00",
-   "secs": 1594,
-   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/The-10-Biggest-Days-in-AI-History-e3smt2e",
-   "day": "2026-11-20",
-   "slot": 1,
-   "of": 2,
-   "pubdate": "2026-11-20T05:00:00-05:00"
-  },
-  {
-   "show": "Real Kyper & Bourne",
-   "guid": "5be4d397-803f-4ee3-b1b6-d2598ad0bd66",
-   "title": "Leafs Hour: Panic Levels After 20 Games",
-   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/2126a8f4-4986-4e4c-8731-83dc1d295d1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=2126a8f4-4986-4e4c-8731-83dc1d295d1a&feed=4jXBOWgY",
-   "length": "47895739",
-   "type": "audio/mpeg",
-   "published": "2026-11-11T21:59:49+00:00",
-   "secs": 2993,
-   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
-   "day": "2026-11-20",
-   "slot": 2,
-   "of": 2,
-   "pubdate": "2026-11-20T04:59:00-05:00"
-  },
   {
    "show": "AI Daily Brief",
    "guid": "f6167e44-4ff4-4262-a874-342517f0d5b7",
@@ -409,6 +381,36 @@
    "slot": 3,
    "of": 3,
    "pubdate": "2026-11-27T04:58:00-05:00"
+  },
+  {
+   "show": "AI Daily Brief",
+   "guid": "eda4b892-9917-49c9-b82e-6a2f5e6ac0c0",
+   "title": "How to Talk About AI with Your Family",
+   "url": "https://anchor.fm/s/f7cac464/podcast/play/130122747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437646451-44100-2-5bfe36b839b42.mp3",
+   "length": "26860563",
+   "type": "audio/mpeg",
+   "published": "2026-11-25T21:41:57+00:00",
+   "secs": 1678,
+   "link": "https://podcasters.spotify.com/pod/show/nlw/episodes/How-to-Talk-About-AI-with-Your-Family-e3t1hhr",
+   "day": "2026-11-28",
+   "slot": 1,
+   "of": 2,
+   "pubdate": "2026-11-28T05:00:00-05:00"
+  },
+  {
+   "show": "Real Kyper & Bourne",
+   "guid": "86362c65-f3c0-4b50-8142-702c70b0d4f3",
+   "title": "Leafs Hour: Splitting the Losing Streak Blame Pie",
+   "url": "https://rogers.simplecastaudio.com/ca56cc7b-feb6-4153-a5d8-5e47151a9386/episodes/96c5e322-c349-460f-a3ed-a170f933421d/audio/128/default.mp3?aid=rss_feed&awCollectionId=ca56cc7b-feb6-4153-a5d8-5e47151a9386&awEpisodeId=96c5e322-c349-460f-a3ed-a170f933421d&feed=4jXBOWgY",
+   "length": "47909116",
+   "type": "audio/mpeg",
+   "published": "2026-11-18T22:01:25+00:00",
+   "secs": 2994,
+   "link": "https://www.sportsnet.ca/590/real-kyper-bourne/",
+   "day": "2026-11-28",
+   "slot": 2,
+   "of": 2,
+   "pubdate": "2026-11-28T04:59:00-05:00"
   }
  ]
 }
